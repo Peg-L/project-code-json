@@ -3,7 +3,7 @@ const jsonServer = require('json-server')
 const server = jsonServer.create()
 const auth = require("json-server-auth");
 const router = jsonServer.router('db.json')
-const middlewares = jsonServer.defaults({ watch : true });
+const middlewares = jsonServer.defaults({ watch : false });
 
 server.use(middlewares)
 // Add this before server.use(router)
