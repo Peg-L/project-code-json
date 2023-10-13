@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "Id": 1,
+      "id": 1,
       "user_email": "john.smith@example.com",
       "user_password": "SecurePass1",
-      "user_phone": 987654321,
+      "user_phone": "0987654321",
       "user_name": "王大文",
       "user_role": "學生",
       "user_title": "學生",
@@ -14,10 +14,10 @@
       "user_address": "台北市大安區忠孝東路123號"
     },
     {
-      "Id": 2,
+      "id": 2,
       "user_email": "emily@example.com",
       "user_password": "Secure123",
-      "user_phone": 932111222,
+      "user_phone": "0932111222",
       "user_name": "王美麗",
       "user_role": "學生",
       "user_title": "學生",
@@ -27,10 +27,10 @@
       "user_address": "新北市三峡區中山路45號"
     },
     {
-      "Id": 3,
+      "id": 3,
       "user_email": "andrew.chen@example.com",
       "user_password": "A1b2C3d4",
-      "user_phone": 955123456,
+      "user_phone": "0955123456",
       "user_name": "陳安德",
       "user_role": "學生",
       "user_title": "學生",
@@ -40,10 +40,10 @@
       "user_address": "台中市西屯區文心路78號"
     },
     {
-      "Id": 4,
+      "id": 4,
       "user_email": "lisa.lin@example.com",
       "user_password": "Lin45678",
-      "user_phone": 929333111,
+      "user_phone": "0929333111",
       "user_name": "林莉莎",
       "user_role": "學生",
       "user_title": "前端工程師",
@@ -53,10 +53,10 @@
       "user_address": "高雄市苓雅區林森一路56號"
     },
     {
-      "Id": 5,
+      "id": 5,
       "user_email": "david.wu@example.com",
       "user_password": "Wu789012",
-      "user_phone": 912444333,
+      "user_phone": "0912444333",
       "user_name": "吳大衛",
       "user_role": "學生",
       "user_title": "軟體工程師",
@@ -68,7 +68,7 @@
   ],
   "courses": [
     {
-      "Id": 1,
+      "id": 1,
       "teacher_Id": "",
       "course_name": "從零開始成為切版大師",
       "course_badges": ["熱門", "新上架", "優質老師"],
@@ -88,7 +88,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 2,
+      "id": 2,
       "teacher_Id": "",
       "course_name": "一起打造你的前端職涯",
       "course_badges": ["熱門", "優質老師"],
@@ -108,7 +108,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 3,
+      "id": 3,
       "teacher_Id": "",
       "course_name": "Python 全攻略",
       "course_badges": ["熱門", "優質老師"],
@@ -128,7 +128,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 4,
+      "id": 4,
       "teacher_Id": "",
       "course_name": "JavaScript 大師",
       "course_badges": ["優質老師"],
@@ -148,7 +148,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 5,
+      "id": 5,
       "teacher_Id": "",
       "course_name": "前端性能優化",
       "course_badges": ["熱門", "新上架"],
@@ -168,7 +168,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 6,
+      "id": 6,
       "teacher_Id": "",
       "course_name": "UI/UX 設計和前端開發",
       "course_badges": ["熱門"],
@@ -188,7 +188,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 7,
+      "id": 7,
       "teacher_Id": "",
       "course_name": "前端開發入門",
       "course_badges": "",
@@ -208,7 +208,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 8,
+      "id": 8,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -224,7 +224,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 9,
+      "id": 9,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -240,7 +240,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 10,
+      "id": 10,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -256,7 +256,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 11,
+      "id": 11,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -272,7 +272,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 12,
+      "id": 12,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -288,7 +288,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 13,
+      "id": 13,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -304,7 +304,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 14,
+      "id": 14,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -320,7 +320,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 15,
+      "id": 15,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -336,7 +336,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 16,
+      "id": 16,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -352,7 +352,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 17,
+      "id": 17,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -368,7 +368,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 18,
+      "id": 18,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -384,7 +384,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 19,
+      "id": 19,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -400,7 +400,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 20,
+      "id": 20,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -416,7 +416,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 21,
+      "id": 21,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -432,7 +432,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 22,
+      "id": 22,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -448,7 +448,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 23,
+      "id": 23,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -464,7 +464,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 24,
+      "id": 24,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -480,7 +480,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 25,
+      "id": 25,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -496,7 +496,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 26,
+      "id": 26,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -512,7 +512,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 27,
+      "id": 27,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -528,7 +528,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 28,
+      "id": 28,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -544,7 +544,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 29,
+      "id": 29,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
@@ -560,7 +560,7 @@
       "reviews_id": ""
     },
     {
-      "Id": 30,
+      "id": 30,
       "teacher_Id": "",
       "course_name": "",
       "course_badges": "",
