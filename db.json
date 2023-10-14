@@ -79,7 +79,7 @@
   "courses": [
     {
       "id": 1,
-      "teacher_Id": 1,
+      "teacherId": 1,
       "course_name": "從零開始成為切版大師",
       "course_badges": ["熱門", "優質老師"],
       "course_tags": ["業界技術", "實戰專案開發", "5年家教經驗", "前端"],
@@ -104,11 +104,11 @@
       "course_duration": 50,
       "course_link": "course_intro.html",
       "course_date": "2023-03-31T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 2,
-      "teacher_Id": 2,
+      "teacherId": 2,
       "course_name": "一起打造你的前端職涯",
       "course_badges": ["熱門", "優質老師"],
       "course_tags": ["面試職涯顧問", "3年諮詢經驗", "職涯規劃"],
@@ -125,11 +125,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-07-04T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 3,
-      "teacher_Id": 3,
+      "teacherId": 3,
       "course_name": "Python 全攻略",
       "course_badges": ["熱門", "優質老師"],
       "course_tags": ["業界技術", "實戰專案開發", "python"],
@@ -146,11 +146,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-01-03T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 4,
-      "teacher_Id": 4,
+      "teacherId": 4,
       "course_name": "JavaScript 大師",
       "course_badges": ["優質老師"],
       "course_tags": ["實戰專案開發", "5年家教經驗", "前端"],
@@ -167,11 +167,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-02-15T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 5,
-      "teacher_Id": 5,
+      "teacherId": 5,
       "course_name": "前端性能優化",
       "course_badges": ["熱門", "新上架"],
       "course_tags": ["網站速度", "性能優化", "前端必學"],
@@ -195,11 +195,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-10-03T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 6,
-      "teacher_Id": 6,
+      "teacherId": 6,
       "course_name": "UI/UX 設計和前端開發",
       "course_badges": ["熱門"],
       "course_tags": ["UI 設計", "UX優化", "用戶界面設計"],
@@ -216,11 +216,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-05-19T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 7,
-      "teacher_Id": 7,
+      "teacherId": 7,
       "course_name": "前端開發入門",
       "course_badges": "",
       "course_tags": ["前端開發", "動畫效果", "動態網頁"],
@@ -237,11 +237,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-07-08T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 8,
-      "teacher_Id": 1,
+      "teacherId": 1,
       "course_name": "放碼過來！新版Java坦克大戰",
       "course_badges": ["優質老師"],
       "course_tags": ["實戰專案開發", "業界技術", "JAVA"],
@@ -257,11 +257,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-07-31T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 9,
-      "teacher_Id": 2,
+      "teacherId": 2,
       "course_name": "C語言引路人 ： 從零開始，向下紮根",
       "course_badges": ["熱門", "新上架", "優質老師"],
       "course_tags": ["5年家教經驗", "後端必學"],
@@ -279,11 +279,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-10-29T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 10,
-      "teacher_Id": 3,
+      "teacherId": 3,
       "course_name": "Unity 零基礎到製作2D手機遊戲",
       "course_badges": ["熱門", "優質老師"],
       "course_tags": ["基礎C#", "創建自己的遊戲", "Animation動畫製作"],
@@ -300,11 +300,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-07-30T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 11,
-      "teacher_Id": 4,
+      "teacherId": 4,
       "course_name": "基礎惡意程式與軟體逆向實戰技巧",
       "course_badges": ["新上架"],
       "course_tags": ["駭客", "逆向工程", "分析惡意程式"],
@@ -322,11 +322,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-10-14T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 12,
-      "teacher_Id": 5,
+      "teacherId": 5,
       "course_name": "Python基礎課程和網路爬蟲入門實戰",
       "course_badges": ["熱門", "新上架", "優質老師"],
       "course_tags": ["網路爬蟲技術", "NBA數據分析", "Code Gym 官網"],
@@ -342,11 +342,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-10-22T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 13,
-      "teacher_Id": 6,
+      "teacherId": 6,
       "course_name": "來杯Java吧!",
       "course_badges": ["熱門", "新上架"],
       "course_tags": ["貪食蛇遊戲", "面試題目解題", "物件導向程式設計"],
@@ -363,11 +363,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-10-09T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 14,
-      "teacher_Id": 7,
+      "teacherId": 7,
       "course_name": "從零開始，Unity3D 射擊遊戲製作真簡單",
       "course_badges": ["熱門", "優質老師"],
       "course_tags": ["3D 遊戲製作"],
@@ -384,11 +384,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-04-14T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 15,
-      "teacher_Id": 1,
+      "teacherId": 1,
       "course_name": "Android APP高效入門 強靭基礎刻不容緩",
       "course_badges": ["熱門", "優質老師"],
       "course_tags": ["熱愛安卓", "APP金鑰與上架", "自行設計網路銀行 APP"],
@@ -405,11 +405,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-05-08T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 16,
-      "teacher_Id": 2,
+      "teacherId": 2,
       "course_name": "Web網站安全測試（Penetration Testing）- 從初學到精通",
       "course_badges": ["熱門"],
       "course_tags": ["從駭客角度保護網站", "web應用程序安全測試", "滲透測試"],
@@ -425,11 +425,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-06-11T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 17,
-      "teacher_Id": 3,
+      "teacherId": 3,
       "course_name": "初學道德駭客",
       "course_badges": ["熱門"],
       "course_tags": ["保護系統免受駭客攻擊", "道德駭客/滲透測試"],
@@ -446,11 +446,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-08-06T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 18,
-      "teacher_Id": 4,
+      "teacherId": 4,
       "course_name": "AWS雲端上Linux從零開始到架站與應用(基礎)",
       "course_badges": ["熱門"],
       "course_tags": [
@@ -471,11 +471,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-06-03T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 19,
-      "teacher_Id": 5,
+      "teacherId": 5,
       "course_name": "AWS雲端實戰基礎",
       "course_badges": ["優質老師"],
       "course_tags": [
@@ -496,11 +496,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-04-18T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 20,
-      "teacher_Id": 6,
+      "teacherId": 6,
       "course_name": "從 Figma 到 HTML CSS 和 JavaScript 的 UI UX 設計",
       "course_badges": "",
       "course_tags": [
@@ -528,11 +528,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-01-30T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 21,
-      "teacher_Id": 7,
+      "teacherId": 7,
       "course_name": "終極網頁設計師與網頁開發人員課程",
       "course_badges": ["熱門"],
       "course_tags": ["從頭到尾規劃、設計和編碼自己的網站!", "成為自由工作者"],
@@ -558,11 +558,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-02-07T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 22,
-      "teacher_Id": 1,
+      "teacherId": 1,
       "course_name": "基於Selenium WebDriver 的Web 應用自動化測試",
       "course_badges": "",
       "course_tags": ["測試工程師", "Python", "新加玻"],
@@ -579,11 +579,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-06-07T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 23,
-      "teacher_Id": 2,
+      "teacherId": 2,
       "course_name": "軟體 API測試從初學者到專業-完整的Postman指南",
       "course_badges": ["新上架"],
       "course_tags": ["使用Postman提交RESTful請求", "確保您的API按預期工作"],
@@ -600,11 +600,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-10-17T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 24,
-      "teacher_Id": 3,
+      "teacherId": 3,
       "course_name": "Selenium WebDriver自動化測試Java版 + 面試問題",
       "course_badges": ["熱門"],
       "course_tags": ["自動化測試人員", "實例演示", "工作10年經驗"],
@@ -621,11 +621,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-07-03T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 25,
-      "teacher_Id": 4,
+      "teacherId": 4,
       "course_name": "Docker容器技術從入門到精通",
       "course_badges": "",
       "course_tags": [
@@ -646,11 +646,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-07-29T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     },
     {
       "id": 26,
-      "teacher_Id": 5,
+      "teacherId": 5,
       "course_name": "從零開始學 Kotlin 程式設計 - 零基礎開發 Android APP 應用程式",
       "course_badges": "",
       "course_tags": ["由淺入深，無痛學習", "豐富的業界實戰與教學經驗"],
@@ -666,11 +666,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-05-18T16:00:00.000Z",
-      "reviews_Id": 2
+      "reviewsId": 2
     },
     {
       "id": 27,
-      "teacher_Id": 6,
+      "teacherId": 6,
       "course_name": "iOS 和 Swift - 完整的 iOS 應用程式開發訓練營",
       "course_badges": ["熱門", "優質老師"],
       "course_tags": [
@@ -691,11 +691,11 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-05-29T16:00:00.000Z",
-      "reviews_Id": 3
+      "reviewsId": 3
     },
     {
       "id": 28,
-      "teacher_Id": 7,
+      "teacherId": 7,
       "course_name": "Docker 與 Kubernetes：實用指南",
       "course_badges": "",
       "course_tags": [
@@ -716,30 +716,30 @@
       "course_duration": 50,
       "course_link": "",
       "course_date": "2023-02-09T16:00:00.000Z",
-      "reviews_Id": 1
+      "reviewsId": 1
     }
   ],
   "commits": [
     {
       "id": 1,
-      "user_Id": 1,
-      "course_Id": 1,
+      "userId": 1,
+      "courseId": 1,
       "content": "麥克老師是我轉職成功的關鍵！他非常專業且有耐心，從零開始教我寫程式，培養了我的切版能力。擁有作品集和個人網站，面試中展示了我的巨大優勢，學習 9 個月後找到工作~",
       "review_date": "2023-06-30T16:00:00.000Z",
       "student_rate": 5
     },
     {
       "id": 2,
-      "user_Id": 2,
-      "course_Id": 2,
+      "userId": 2,
+      "courseId": 2,
       "content": "老師非常專業，在課程中教了很多技巧，也陪我演練非常多次。讓我在技術面試中表現出色，拿到超乎我預期的 offer。這個課程為我的前端職業生涯奠定了堅實的基礎，我強烈推薦給所有想要在前端領域取得成功的人。",
       "review_date": "2023-08-06T16:00:00.000Z",
       "student_rate": 5
     },
     {
       "id": 3,
-      "user_Id": 3,
-      "course_Id": 3,
+      "userId": 3,
+      "courseId": 3,
       "content": "這位老師簡直是 Python 學習的明燈！我以前是個初學者，但現在我可以自信地處理各種 Python 專案。上課深入淺出，實用性強，我覺得自己的技能水平有了巨大的進步。強烈推薦給所有想要掌握 Python 的人！",
       "review_date": "2023-05-06T16:00:00.000Z",
       "student_rate": 5
