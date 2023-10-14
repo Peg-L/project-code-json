@@ -1,4 +1,81 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "user_email": "john.smith@example.com",
+      "user_password": "SecurePass1",
+      "user_phone": 987654321,
+      "user_name": "約翰史密斯",
+      "user_role": "學生",
+      "user_title": "",
+      "user_avatar": "1990-05-14T16:00:00.000Z",
+      "user_birthdate": "男",
+      "user_gender": "台北市大安區忠孝東路123號",
+      "user_address": "",
+      "": "",
+      "id, user_email, user_password, user_phone, user_name, user_role, user_title, user_avatar, user_birthdate, user_gender, user_address": "1, john.smith@example.com, SecurePass1, 987654321, 約翰史密斯, 學生, , Tue May 15 1990 00:00:00 GMT+0800 (GMT+08:00), 男, 台北市大安區忠孝東路123號"
+    },
+    {
+      "id": 2,
+      "user_email": "emily@example.com",
+      "user_password": "Secure123",
+      "user_phone": 932111222,
+      "user_name": "王美麗",
+      "user_role": "學生",
+      "user_title": "",
+      "user_avatar": "1988-11-29T16:00:00.000Z",
+      "user_birthdate": "女",
+      "user_gender": "新北市三峡區中山路45號",
+      "user_address": "",
+      "": "",
+      "id, user_email, user_password, user_phone, user_name, user_role, user_title, user_avatar, user_birthdate, user_gender, user_address": "2, emily@example.com, Secure123, 932111222, 王美麗, 學生, , Wed Nov 30 1988 00:00:00 GMT+0800 (GMT+08:00), 女, 新北市三峡區中山路45號"
+    },
+    {
+      "id": 3,
+      "user_email": "andrew.chen@example.com",
+      "user_password": "A1b2C3d4",
+      "user_phone": 955123456,
+      "user_name": "陳安德",
+      "user_role": "學生",
+      "user_title": "",
+      "user_avatar": "1995-07-21T16:00:00.000Z",
+      "user_birthdate": "男",
+      "user_gender": "台中市西屯區文心路78號",
+      "user_address": "",
+      "": "",
+      "id, user_email, user_password, user_phone, user_name, user_role, user_title, user_avatar, user_birthdate, user_gender, user_address": "3, andrew.chen@example.com, A1b2C3d4, 955123456, 陳安德, 學生, , Sat Jul 22 1995 00:00:00 GMT+0800 (GMT+08:00), 男, 台中市西屯區文心路78號"
+    },
+    {
+      "id": 4,
+      "user_email": "lisa.lin@example.com",
+      "user_password": "Lin45678",
+      "user_phone": 929333111,
+      "user_name": "林莉莎",
+      "user_role": "學生",
+      "user_title": "前端工程師",
+      "user_avatar": "",
+      "user_birthdate": "1980-03-09T16:00:00.000Z",
+      "user_gender": "女",
+      "user_address": "高雄市苓雅區林森一路56號",
+      "": "",
+      "id, user_email, user_password, user_phone, user_name, user_role, user_title, user_avatar, user_birthdate, user_gender, user_address": "4, lisa.lin@example.com, Lin45678, 929333111, 林莉莎, 學生, 前端工程師, , Mon Mar 10 1980 00:00:00 GMT+0800 (GMT+08:00), 女, 高雄市苓雅區林森一路56號"
+    },
+    {
+      "id": 5,
+      "user_email": "david.wu@example.com",
+      "user_password": "Wu789012",
+      "user_phone": 912444333,
+      "user_name": "吳大衛",
+      "user_role": "學生",
+      "user_title": "軟體工程師",
+      "user_avatar": "",
+      "user_birthdate": "1985-09-04T16:00:00.000Z",
+      "user_gender": "男",
+      "user_address": "台南市東區東門路99號",
+      "": "",
+      "id, user_email, user_password, user_phone, user_name, user_role, user_title, user_avatar, user_birthdate, user_gender, user_address": "5, david.wu@example.com, Wu789012, 912444333, 吳大衛, 學生, 軟體工程師, , Thu Sep 05 1985 00:00:00 GMT+0800 (GMT+08:00), 男, 台南市東區東門路99號"
+    }
+  ],
   "courses": [
     {
       "id": 1,
