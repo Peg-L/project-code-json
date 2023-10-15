@@ -1,5 +1,16 @@
 {
   "users": [
+    "id": 1,
+    "email": "peggy@gmail.com",
+      "password": "Aa111111",
+      "user_phone": "0911111111",
+      "user_name": "Peggy",
+      "user_role": "學生",
+      "user_title": "",
+      "user_avatar": "",
+      "user_birthdate": "",
+      "user_gender": "",
+      "user_address": ""
   ],
   "courses": [
     {
