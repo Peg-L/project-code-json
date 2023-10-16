@@ -21,7 +21,7 @@ Demo from this repository:
 ```json
 {
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "commits": [{ "id": 1, "body": "some commit", "postId": 1 }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "profile": { "name": "typicode" }
 }
 ```
