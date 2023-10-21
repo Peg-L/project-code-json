@@ -120,7 +120,8 @@
         {
           "date": "10/18",
           "time": ["12:00", "16:30", "18:00", "19:30"]
-        },{
+        },
+        {
           "date": "10/24",
           "time": ["08:30", "12:00", "14:30"]
         },
@@ -322,7 +323,6 @@
       ],
       "price": 1100,
       "duration": 50,
-      "link": "intro.html",
       "date": "2023-03-31T16:00:00.000Z",
       "commentId": 1
     },
@@ -344,13 +344,12 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-07-04T16:00:00.000Z",
       "commentId": 2
     },
     {
       "id": 3,
-      "teacherId": 3,
+      "teacherId": 1,
       "name": "Python 全攻略",
       "badges": ["熱門", "優質老師"],
       "tags": ["業界技術", "實戰專案開發", "python"],
@@ -366,13 +365,12 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-01-03T16:00:00.000Z",
       "commentId": 3
     },
     {
       "id": 4,
-      "teacherId": 4,
+      "teacherId": 1,
       "name": "JavaScript 大師",
       "badges": ["優質老師"],
       "tags": ["實戰專案開發", "5年家教經驗", "前端"],
@@ -380,7 +378,7 @@
       "level": "進階",
       "info": "歡迎一起探索 JavaScript 更多神奇功能和應用！",
       "topics": "後端",
-      "categories": ["Javascript", "React", "Vue"],
+      "categories": ["JavaScript", "React", "Vue"],
       "mainPoints": [
         "寫出運作優良且穩定性高的 JS 程式碼",
         "深入了解高階概念，如閉包、原型繼承和異步編程。",
@@ -388,13 +386,12 @@
       ],
       "price": 1200,
       "duration": 50,
-      "link": "",
       "date": "2023-02-15T16:00:00.000Z",
       "commentId": 1
     },
     {
       "id": 5,
-      "teacherId": 5,
+      "teacherId": 3,
       "name": "前端性能優化",
       "badges": ["熱門", "新上架"],
       "tags": ["網站速度", "性能優化", "前端必學"],
@@ -402,7 +399,7 @@
       "level": "進階",
       "info": "加速網頁世界！從優化技巧到高效工具，我將教你提高網站速度，提供極致用戶體驗，讓網站快如閃電！",
       "topics": "前端",
-      "categories": ["HTML", "CSS", "SCSS", "Javascript", "React", "Vue"],
+      "categories": ["HTML", "CSS", "SCSS", "JavaScript", "React", "Vue"],
       "mainPoints": [
         "瞭解網站性能優化的重要性，學習如何減少加載時間和提高網站響應速度。",
         "探討網站最佳實踐、緩存策略、圖像壓縮和資源壓縮等技術。",
@@ -410,7 +407,6 @@
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-10-03T16:00:00.000Z",
       "commentId": 2
     },
@@ -424,7 +420,7 @@
       "level": "進階",
       "info": "磨練你的設計技能，並以極致用戶體驗呈現你的前端作品。探索 UI/UX 設計原則，打造吸引人且易用的介面，讓使用者留下深刻印象！",
       "topics": "UI / UX",
-      "categories": ["HTML", "CSS", "Figma", "Adobe XD "],
+      "categories": ["HTML", "CSS", "Figma", "Adobe XD"],
       "mainPoints": [
         "探討用戶介面（UI）和用戶體驗（UX）設計原則，並如何將它們應用於前端開發。",
         "學習設計網站和應用程序的直觀用戶界面，優化用戶體驗。",
@@ -432,7 +428,6 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-05-19T16:00:00.000Z",
       "commentId": 3
     },
@@ -442,19 +437,18 @@
       "name": "前端開發入門",
       "badges": "",
       "tags": ["前端開發", "動畫效果", "動態網頁"],
-      "rate": 4.5,
+      "rate": 3,
       "level": "入門",
       "info": "想學習網頁前端絕對不能錯過的第一堂課！我將手把手帶你打造互動性網站！",
       "topics": "前端",
-      "categories": ["HTML", "CSS", "SCSS", "Javascript", "jQuery"],
+      "categories": ["HTML", "CSS", "SCSS", "JavaScript", "jQuery"],
       "mainPoints": [
         "由淺入深帶你學習所有前端後端必要知識與技能。",
-        "能使用 Javascript, jQuery 去製作具有各種功能的網頁程序或互動效果。",
+        "能使用 JavaScript, jQuery 去製作具有各種功能的網頁程序或互動效果。",
         "帶你創造有形與富有現代設計感的優質網站。"
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-07-08T16:00:00.000Z",
       "commentId": 1
     },
@@ -463,25 +457,24 @@
       "teacherId": 1,
       "name": "放碼過來！新版Java坦克大戰",
       "badges": ["優質老師"],
-      "tags": ["實戰專案開發", "業界技術", "JAVA"],
+      "tags": ["實戰專案開發", "業界技術", "Java"],
       "rate": 4.7,
       "level": "進階",
       "info": "有人感嘆“聽過很多道理，卻總是過不好生活“，那麽您會感嘆“看了N部影片，讀了幾噸教材，卻只能寫一個Hello World？”嗎？如果您對Java編程語言已經有一些基本的了解，卻苦於無法獨立設計、完成一個項目，也希望了解嚴肅、正式的企業級開發理念和實踐經驗，那麽這個課程，為您量身定做。",
       "topics": "後端",
-      "categories": ["JAVA", "作品修改", "面試", "履歷"],
+      "categories": ["Java", "作品修改", "面試", "履歷"],
       "mainPoints": [
         "本課程適用具備基本Java語言基礎，但沒有實際開發經驗，不能獨立設計、規劃、開發項目的初學者",
         "具備一定開發經驗，但對開發環境、測試、發布自動化了解、實踐不多的Java程序員"
       ],
       "price": 1200,
       "duration": 50,
-      "link": "",
       "date": "2023-07-31T16:00:00.000Z",
       "commentId": 2
     },
     {
       "id": 9,
-      "teacherId": 2,
+      "teacherId": 1,
       "name": "C語言引路人 ： 從零開始，向下紮根",
       "badges": ["熱門", "新上架", "優質老師"],
       "tags": ["5年家教經驗", "後端必學"],
@@ -498,13 +491,12 @@
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-10-29T16:00:00.000Z",
       "commentId": 3
     },
     {
       "id": 10,
-      "teacherId": 3,
+      "teacherId": 2,
       "name": "Unity 零基礎到製作2D手機遊戲",
       "badges": ["熱門", "優質老師"],
       "tags": ["基礎C#", "創建自己的遊戲", "Animation動畫製作"],
@@ -512,7 +504,7 @@
       "level": "入門",
       "info": "本課程是為Unity初學者設計的課程，最後會帶各位把製作的遊戲安裝到Android手機與iPhone手機上。若您是MAC電腦，可以開發Android或iPhone手機的遊戲，但若您的電腦為Windows系統，則只能開發Android手機的遊戲，請大家要注意。",
       "topics": "遊戲開發",
-      "categories": ["C#", "Unity", "作品修改"],
+      "categories": ["C#", "Unity", "作品修改", "Android 開發", "iOS 開發"],
       "mainPoints": [
         "可學會基本C#程式語言",
         "Unity操作介面及基本操作",
@@ -520,7 +512,6 @@
       ],
       "price": 1100,
       "duration": 50,
-      "link": "",
       "date": "2023-07-30T16:00:00.000Z",
       "commentId": 1
     },
@@ -543,13 +534,12 @@
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-10-14T16:00:00.000Z",
       "commentId": 2
     },
     {
       "id": 12,
-      "teacherId": 5,
+      "teacherId": 2,
       "name": "Python基礎課程和網路爬蟲入門實戰",
       "badges": ["熱門", "新上架", "優質老師"],
       "tags": ["網路爬蟲技術", "NBA數據分析", "Code Gym 官網"],
@@ -564,7 +554,6 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-10-22T16:00:00.000Z",
       "commentId": 3
     },
@@ -578,7 +567,7 @@
       "level": "入門",
       "info": "從入門開始學習Java語法，課程包含Java 8、物件導向程式設計，製作貪食蛇遊戲、出埃及記遊戲、面試題目解題、MySQL資料庫、Servlet、JSP網頁開發、Stream、多線程Java編寫等等內容，一步一步成為Java大師。",
       "topics": "後端",
-      "categories": ["JAVA", "SQL", "SpringBoot"],
+      "categories": ["Java", "SQL", "SpringBoot"],
       "mainPoints": [
         "在Java當中預防SQL Injection攻擊資料庫",
         "使用多線程Java編寫（Multi-threading Programming），提高運算速度",
@@ -586,7 +575,6 @@
       ],
       "price": 1200,
       "duration": 50,
-      "link": "",
       "date": "2023-10-09T16:00:00.000Z",
       "commentId": 1
     },
@@ -608,13 +596,12 @@
       ],
       "price": 1200,
       "duration": 50,
-      "link": "",
       "date": "2023-04-14T16:00:00.000Z",
       "commentId": 2
     },
     {
       "id": 15,
-      "teacherId": 1,
+      "teacherId": 2,
       "name": "Android APP高效入門 強靭基礎刻不容緩",
       "badges": ["熱門", "優質老師"],
       "tags": ["熱愛安卓", "APP金鑰與上架", "自行設計網路銀行 APP"],
@@ -622,7 +609,7 @@
       "level": "入門",
       "info": "眾多業界 Android 開發人員觀看的技術部落格「綠豆湯」，由 Hank 老師一手建立，裡面所撰寫的百篇心得文章，結合了二十多年實務開發與業界教學經驗，現在老師專為初學者規劃設計課程，將其經驗淬煉成高效率的學習方法，讓學員一步步依照內容，取得 APP 程式設計的能力、建置商業上架 APP 方法，為你開創不同層次的程式視野。",
       "topics": "行動應用",
-      "categories": ["JAVA", "Android 開發"],
+      "categories": ["Java", "Android 開發"],
       "mainPoints": [
         "自行設計出具與使用者互動、計算、網路連線、多畫面的 Android APP",
         "類似線上網路銀行功能的 APP，如餘額查詢、交易記錄，課後練習如取得股票記錄",
@@ -630,7 +617,6 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-05-08T16:00:00.000Z",
       "commentId": 3
     },
@@ -644,14 +630,13 @@
       "level": "入門",
       "info": "你想了解黑客是如何攻擊網站和Web應用的嗎，你想知道如何保護他們免受黑客攻擊嗎？你想知道你寫出的代碼是安全的嗎？那麽讓我們一起走進web網站安全測試吧。這是一套關於網站和web應用滲透測試的綜合課，這門課，將帶你從一個初學者開始，從一個沒有滲透測試的起點開始，走向專業的滲透測試。",
       "topics": "資安",
-      "categories": ["Linux", "Javascript", "SQL", "作品修改"],
+      "categories": ["Linux", "JavaScript", "SQL", "作品修改"],
       "mainPoints": [
         "學會發現基本和高級存儲型XSS（stored XSS）漏洞",
         "學習編寫正確SQL語句的方法來以防止SQL注入"
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-06-11T16:00:00.000Z",
       "commentId": 1
     },
@@ -665,7 +650,7 @@
       "level": "入門",
       "info": "歡迎這門全面的道德駭客課程！本課程假設您沒有任何基礎知識，在學習結束時，您將能夠像黑帽駭客一樣破解系統並像安全專家一樣保護它們！",
       "topics": "資安",
-      "categories": ["Linux", "Javascript", "SQL", "道德駭客"],
+      "categories": ["Linux", "JavaScript", "SQL", "道德駭客"],
       "mainPoints": [
         "了解網站如何運作，如何發現和利用 Web 應用程式漏洞來攻擊網站。",
         "安裝和使用 Kali Linux - 滲透測試作業系統。",
@@ -673,7 +658,6 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-08-06T16:00:00.000Z",
       "commentId": 2
     },
@@ -699,13 +683,12 @@
       ],
       "price": 1200,
       "duration": 50,
-      "link": "",
       "date": "2023-06-03T16:00:00.000Z",
       "commentId": 3
     },
     {
       "id": 19,
-      "teacherId": 5,
+      "teacherId": 1,
       "name": "AWS雲端實戰基礎",
       "badges": ["優質老師"],
       "tags": [
@@ -725,7 +708,6 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-04-18T16:00:00.000Z",
       "commentId": 1
     },
@@ -735,7 +717,7 @@
       "name": "從 Figma 到 HTML CSS 和 JavaScript 的 UI UX 設計",
       "badges": "",
       "tags": ["無須具備相關知識", "業界標準設計與開發流程", "SVG 形狀變換"],
-      "rate": 4.5,
+      "rate": 3.2,
       "level": "入門",
       "info": "了解如何成為使用者介面設計、使用者體驗設計、Web 開發、Bootstrap 的全端設計師",
       "topics": "前端",
@@ -744,7 +726,7 @@
         "Photoshop",
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
         "Bootstrap"
       ],
       "mainPoints": [
@@ -754,7 +736,6 @@
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-01-30T16:00:00.000Z",
       "commentId": 2
     },
@@ -772,7 +753,7 @@
         "Photoshop",
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
         "jQuery",
         "PHP",
         "SQL"
@@ -785,17 +766,16 @@
       ],
       "price": 1500,
       "duration": 50,
-      "link": "",
       "date": "2023-02-07T16:00:00.000Z",
       "commentId": 3
     },
     {
       "id": 22,
-      "teacherId": 1,
+      "teacherId": 4,
       "name": "基於Selenium WebDriver 的Web 應用自動化測試",
       "badges": "",
       "tags": ["測試工程師", "Python", "新加玻"],
-      "rate": 4.2,
+      "rate": 3.7,
       "level": "入門",
       "info": "在一般中小型的軟體公司，是不太重視測試或是有測試團隊也只是手動測試而已。但是我來到新加坡工作後接觸到許多團隊是有專業測試工程師，大部分薪水也是高於軟體工程師。不管你是用什麼語言都沒關係，先用python了解測試，再切換至你擅長的電腦語言就好了。 當我學測試時，是不懂python的，但是pyhton與selenium資源與資料是最多，更何況python很熱門，就想順便學習好了。  相信我，如果你有coding的經驗，學python很簡單的。",
       "topics": "開發維運",
@@ -807,13 +787,12 @@
       ],
       "price": 1000,
       "duration": 50,
-      "link": "",
       "date": "2023-06-07T16:00:00.000Z",
       "commentId": 1
     },
     {
       "id": 23,
-      "teacherId": 2,
+      "teacherId": 7,
       "name": "軟體 API測試從初學者到專業-完整的Postman指南",
       "badges": ["新上架"],
       "tags": ["使用Postman提交RESTful請求", "確保您的API按預期工作"],
@@ -829,13 +808,12 @@
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-10-17T16:00:00.000Z",
       "commentId": 2
     },
     {
       "id": 24,
-      "teacherId": 3,
+      "teacherId": 5,
       "name": "Selenium WebDriver自動化測試Java版 + 面試問題",
       "badges": ["熱門"],
       "tags": ["自動化測試人員", "實例演示", "工作10年經驗"],
@@ -843,7 +821,7 @@
       "level": "入門",
       "info": "初學者和有基礎的人都適用。加入Selenium最佳中文版課程，讓你的自動化測試水平從初級升向高級，並且會覆蓋在POM, Grid ,Maven，Jenkins, 面試等問題",
       "topics": "產品測試",
-      "categories": ["Selenium", "JAVA", "自動測試", "面試"],
+      "categories": ["Selenium", "Java", "自動測試", "面試"],
       "mainPoints": [
         "用100多個實例對Selenium現實場景應用進行深入理解。",
         "你基本上可以搞定任何面試，並能從設計階段開始領導整個Selenium自動化項目。",
@@ -851,7 +829,6 @@
       ],
       "price": 1200,
       "duration": 50,
-      "link": "",
       "date": "2023-07-03T16:00:00.000Z",
       "commentId": 3
     },
@@ -877,7 +854,6 @@
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-07-29T16:00:00.000Z",
       "commentId": 1
     },
@@ -895,17 +871,15 @@
       "mainPoints": ["掌握 Kotlin 基礎語法", "開發自己的 Android APP 應用程式"],
       "price": 1100,
       "duration": 50,
-      "link": "",
       "date": "2023-05-18T16:00:00.000Z",
       "commentId": 2
     },
     {
       "id": 27,
-      "teacherId": 6,
+      "teacherId": 2,
       "name": "iOS 和 Swift - 完整的 iOS 應用程式開發訓練營",
       "badges": ["熱門", "優質老師"],
       "tags": [
-        "Cdemy熱門講師",
         "快速掌握 Swift 5.1 和本機應用程式開發",
         "快速了解 Apple 的最新技術"
       ],
@@ -921,13 +895,12 @@
       ],
       "price": 800,
       "duration": 50,
-      "link": "",
       "date": "2023-05-29T16:00:00.000Z",
       "commentId": 3
     },
     {
       "id": 28,
-      "teacherId": 7,
+      "teacherId": 3,
       "name": "Docker 與 Kubernetes：實用指南",
       "badges": "",
       "tags": [
@@ -935,7 +908,7 @@
         "不需要了解特定語言",
         "無需具備 Docker 或 Kubernetes 經驗"
       ],
-      "rate": 4.3,
+      "rate": 3.5,
       "level": "入門",
       "info": "從頭開始學習 Docker、Docker Compose、多容器專案、部署以及有關 Kubernetes 的所有內容！",
       "topics": "開發維運",
@@ -947,9 +920,133 @@
       ],
       "price": 1200,
       "duration": 50,
-      "link": "",
       "date": "2023-02-09T16:00:00.000Z",
       "commentId": 1
+    },
+    {
+      "id": 29,
+      "teacherId": 7,
+      "name": "邊做邊學 - 製作ChatGPT網頁APP",
+      "badges": ["熱門"],
+      "tags": ["著重於實戰編程", "OpenAI API", "詳盡的解說和支援"],
+      "rate": 4.9,
+      "level": "入門",
+      "info": "歡迎參加我們的課程，這是一個令人興奮的機會，讓您學習如何使用JavaScript、React、Node.js和HTML、CSS連結OpenAI API，並製作一個功能強大的ChatGPT網頁應用。在本課程中，您將學習如何建立一個具有智能聊天功能的應用，讓用戶可以與AI進行自然對話並獲得豐富的回應。",
+      "topics": "AI",
+      "categories": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "ChatGPT"
+      ],
+      "mainPoints": [
+        "React基礎知識：您需要對React進行基本了解，這是建立ChatGPT網頁應用的主要技術。",
+        "Node.js和伺服器設置：我們將使用Node.js來建立伺服器，以便與OpenAI API進行通訊並處理請求。",
+        "OpenAI API：您將學習如何在OpenAI平台上註冊並獲得API金鑰，這將允許您訪問OpenAI的ChatGPT模型。",
+        "ChatGPT功能：您將學習如何使用OpenAI API的ChatGPT功能，使您的應用能夠產生智能回答，讓用戶體驗更豐富"
+      ],
+      "price": 1000,
+      "duration": 50,
+      "date": "2023-04-06T16:00:00.000Z",
+      "commentId": 2
+    },
+    {
+      "id": 30,
+      "teacherId": 6,
+      "name": "人工智慧初學者指南 (Unity)",
+      "badges": ["熱門"],
+      "tags": ["須熟悉 C# 和 Unity 遊戲開發引擎", "創建自己的遊戲 NPC"],
+      "rate": 4.4,
+      "level": "入門",
+      "info": "本課程首先詳細介紹向量數學，向量數學是 NPC 運動程式設計的核心。在此之後，路徑點系統將用於在環境中移動角色，然後檢查用於 AI 控制汽車的賽車的 Unity 路徑點系統。在我們應用這些原理來開發導航網格和開發能夠在遊戲環境中找到出路的 NPC 之前，我們需要對圖論和 A* 演算法進行研究。在水族館設置魚類自主遊動之前，我們將對人群進行檢查，從人行道交通的娛樂，到逃離危險的人群。在研究了在遊戲環境中移動 NPC 的不同方式後，我們將透過完整的解釋和更多使用有限狀態機和行為樹的實踐研討會來討論他們的思維能力。",
+      "topics": "AI",
+      "categories": ["遊戲開發 AI", "Unity", "C#"],
+      "mainPoints": [
+        "在 Unity 中使用 C# 設計和程式設計 NPC",
+        "將 AI 相關的 Unity Asset 外掛程式實施到現有專案中",
+        "解釋人工智慧如何應用在電腦遊戲中",
+        "使用各種人工智慧技術來開發 NPC 的導航和決策能力"
+      ],
+      "price": 1000,
+      "duration": 50,
+      "date": "2023-08-16T16:00:00.000Z",
+      "commentId": 3
+    },
+    {
+      "id": 31,
+      "teacherId": 5,
+      "name": "ChatGPT x Unity：終極整合指南",
+      "badges": ["熱門"],
+      "tags": ["AI 聊天應用程式", "追蹤用戶活動", "廣告中介系統"],
+      "rate": 4.7,
+      "level": "進階",
+      "info": "本課程將教您如何整合ChatGPT到Unity專案，包括OpenAI API的呼叫、聊天界面設定，以及擴展功能，如文字轉語音、語音轉文字和Oculus SDK的整合。您將學會使用Ace Unity的UI元素，保存對話歷史，管理用戶活動，和貨幣化策略。同時，這個課程還將幫助您改進程式碼架構，涵蓋許多重要主題，讓您成為一位優秀的開發人員。",
+      "topics": "AI",
+      "categories": ["ChatGPT", "Unity", "C#"],
+      "mainPoints": [
+        "將 ChatGPT 整合到您的 Unity 專案中",
+        "了解人工智慧在您的專案中的巨大潛力",
+        "如何對OpenAI平台進行API調用"
+      ],
+      "price": 1000,
+      "duration": 50,
+      "date": "2023-05-07T16:00:00.000Z",
+      "commentId": 1
+    },
+    {
+      "id": 32,
+      "teacherId": 1,
+      "name": "完整的 Unity® 大師班：構建 2D 和 3D AI 遊戲",
+      "badges": ["熱門", "新上架", "優質老師"],
+      "tags": ["2D和3D遊戲", "行動開發", "尋路"],
+      "rate": 4.8,
+      "level": "進階",
+      "info": "本課程教授製作2D和3D人工智慧遊戲，包含三個完整的Unity和C#遊戲製作項目。第一部分介紹使用A*算法創建2D Unity 遊戲，學習遊戲開發和人工智慧編程。第二部分涵蓋3D遊戲，加入導航網格和AI飛船。最後，製作手機遊戲，從頭開始創建遊戲藝術資產，並將其整合到Unity中。這個課程提供終身訪問權，適合初學者，教授Unity和Blender技能，為遊戲開發打下堅實基礎。",
+      "topics": "遊戲開發",
+      "categories": [
+        "遊戲開發 AI",
+        "Unity",
+        "C#",
+        "Blender",
+        "Android 開發",
+        "iOS 開發"
+      ],
+      "mainPoints": [
+        "Unity C# 中的遊戲開發程式碼。",
+        "使用尋路演算法 A Star 製作遊戲。",
+        "在 Unity® 中建構移動忍者生存遊戲。"
+      ],
+      "price": 1000,
+      "duration": 50,
+      "date": "2023-10-18T16:00:00.000Z",
+      "commentId": 2
+    },
+    {
+      "id": 33,
+      "teacherId": 3,
+      "name": "學習 Unity 電玩遊戲開發的 Blender 3D 建模",
+      "badges": ["熱門"],
+      "tags": [
+        " Blender 進行 3D 建模",
+        "針對 Unity 遊戲開發人員",
+        "提高程式設計師或遊戲設計師技能"
+      ],
+      "rate": 4.5,
+      "level": "進階",
+      "info": "本課程專為希望擴展其能力以在 Blender 中包含 3D 建模的 Unity 開發人員而設計。無論您是有興趣為遊戲設計獨特的 3D 道具、建造出色的關卡，還是調整現有的 Unity 資產，本課程都可以幫助您完成學習曲線，讓您掌握主動權。您將學習像專業人士一樣進行 Blend，並對編輯視訊遊戲道具和關卡設計的所有最常用工具有良好的使用知識。我們涵蓋了所有基本術語、鍵盤快捷鍵、最佳實踐、省時技巧、基本動畫、分配 uv、應用材質、紋理等。",
+      "topics": "遊戲開發",
+      "categories": ["Unity", "Blender"],
+      "mainPoints": [
+        "使用 Blender 3D 自信地創建您自己的 Unity 道具",
+        "Unity 和 Blender 的基本動畫技術",
+        "透過在 Blender 中編輯 Unity 資源"
+      ],
+      "price": 1500,
+      "duration": 50,
+      "date": "2023-07-15T16:00:00.000Z",
+      "commentId": 3
     }
   ],
   "categories": [
