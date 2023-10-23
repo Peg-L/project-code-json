@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "email": "john.smith@example.com",
+      "email": "cat@example.com",
       "password": "SecurePass1",
       "phone": "0987654321",
-      "name": "約翰史密斯",
-      "role": "學生",
+      "name": "貓咪",
+      "role": "前端工程師",
       "title": "",
-      "avatar": "",
+      "avatar": "../assets/images/student/cat.png",
       "birthdate": "1990-05-14T16:00:00.000Z",
       "gender": "男",
       "address": "台北市大安區忠孝東路123號"
@@ -18,10 +18,10 @@
       "email": "emily@example.com",
       "password": "Secure123",
       "phone": "0932111222",
-      "name": "王美麗",
+      "name": "Cookie",
       "role": "學生",
       "title": "",
-      "avatar": "",
+      "avatar": "../assets/images/student/cookie.png",
       "birthdate": "1988-11-29T16:00:00.000Z",
       "gender": "女",
       "address": "新北市三峡區中山路45號"
@@ -34,7 +34,7 @@
       "name": "陳安德",
       "role": "學生",
       "title": "",
-      "avatar": "",
+      "avatar": "../assets/images/student/olivia.png",
       "birthdate": "1995-07-21T16:00:00.000Z",
       "gender": "男",
       "address": "台中市西屯區文心路78號"
@@ -47,7 +47,7 @@
       "name": "林莉莎",
       "role": "學生",
       "title": "前端工程師",
-      "avatar": "",
+      "avatar": "../assets/images/student/olivia.png",
       "birthdate": "1980-03-09T16:00:00.000Z",
       "gender": "女",
       "address": "高雄市苓雅區林森一路56號"
@@ -85,6 +85,14 @@
     },
     {
       "id": 3,
+      "userId": 3,
+      "courseId": 3,
+      "content": "這位老師簡直是 Python 學習的明燈！我以前是個初學者，但現在我可以自信地處理各種 Python 專案。上課深入淺出，實用性強，我覺得自己的技能水平有了巨大的進步。強烈推薦給所有想要掌握 Python 的人！",
+      "date": "2023-05-06T16:00:00.000Z",
+      "rate": 5
+    },
+    {
+      "id": 4,
       "userId": 3,
       "courseId": 3,
       "content": "這位老師簡直是 Python 學習的明燈！我以前是個初學者，但現在我可以自信地處理各種 Python 專案。上課深入淺出，實用性強，我覺得自己的技能水平有了巨大的進步。強烈推薦給所有想要掌握 Python 的人！",
