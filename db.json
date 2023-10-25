@@ -115,29 +115,7 @@
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
       "lang": ["中文", "英文"],
-      "intro": "目前任職於上市企業資深前端工程師，總年資 8 年，興趣是幫助他人學習程式語言，我相信，透過清楚的講解與示範，任何人都可以學好怎麼寫程式與電腦科學中的複雜概念。\r\n\r\n你可以在我的課程中累積作品，我重視知識分享和實作練習並行，帶你一步一步完成作品，提前做面試準備。重視每個學生的差異並量身定制指導，根據你的背景和目標，提供最適合你的建議，讓你進步更快速。一個人走的快，一群人走得遠，請善用學生專屬社群，在這個社群中與其他學生多多互相學習和交流。",
-      "openTime": [
-        {
-          "date": "10/16",
-          "time": ["10:00", "11:30", "12:00", "14:30"]
-        },
-        {
-          "date": "10/17",
-          "time": ["09:30", "14:00", "15:30"]
-        },
-        {
-          "date": "10/18",
-          "time": ["12:00", "16:30", "18:00", "19:30"]
-        },
-        {
-          "date": "10/24",
-          "time": ["08:30", "12:00", "14:30"]
-        },
-        {
-          "date": "10/25",
-          "time": ["10:00", "11:30", "15:00", "17:30"]
-        }
-      ]
+      "intro": "目前任職於上市企業資深前端工程師，總年資 8 年，興趣是幫助他人學習程式語言，我相信，透過清楚的講解與示範，任何人都可以學好怎麼寫程式與電腦科學中的複雜概念。\r\n\r\n你可以在我的課程中累積作品，我重視知識分享和實作練習並行，帶你一步一步完成作品，提前做面試準備。重視每個學生的差異並量身定制指導，根據你的背景和目標，提供最適合你的建議，讓你進步更快速。一個人走的快，一群人走得遠，請善用學生專屬社群，在這個社群中與其他學生多多互相學習和交流。"
     },
     {
       "id": 2,
@@ -153,17 +131,7 @@
       "education": "",
       "experience": "",
       "lang": "",
-      "intro": "",
-      "openTime": [
-        {
-          "date": "10/19",
-          "time": ["08:00", "11:30", "13:00", "16:30", "18:00"]
-        },
-        {
-          "date": "10/20",
-          "time": ["10:30", "14:30", "16:00"]
-        }
-      ]
+      "intro": ""
     },
     {
       "id": 3,
@@ -179,21 +147,7 @@
       "education": "",
       "experience": "",
       "lang": "",
-      "intro": "",
-      "openTime": [
-        {
-          "date": "10/21",
-          "time": ["11:00", "15:00", "17:30", "20:00"]
-        },
-        {
-          "date": "10/22",
-          "time": ["09:30", "13:30", "16:00"]
-        },
-        {
-          "date": "10/23",
-          "time": ["12:30", "14:30", "18:00"]
-        }
-      ]
+      "intro": ""
     },
     {
       "id": 4,
@@ -209,17 +163,7 @@
       "education": "",
       "experience": "",
       "lang": "",
-      "intro": "",
-      "openTime": [
-        {
-          "date": "10/24",
-          "time": ["08:30", "12:00", "14:30"]
-        },
-        {
-          "date": "10/25",
-          "time": ["10:00", "11:30", "15:00", "17:30"]
-        }
-      ]
+      "intro": ""
     },
     {
       "id": 5,
@@ -235,17 +179,7 @@
       "education": "",
       "experience": "",
       "lang": "",
-      "intro": "",
-      "openTime": [
-        {
-          "date": "10/26",
-          "time": ["09:00", "14:00", "16:30", "19:00"]
-        },
-        {
-          "date": "10/27",
-          "time": ["11:30", "13:30", "15:00"]
-        }
-      ]
+      "intro": ""
     },
     {
       "id": 6,
@@ -261,21 +195,7 @@
       "education": "",
       "experience": "",
       "lang": "",
-      "intro": "",
-      "openTime": [
-        {
-          "date": "10/28",
-          "time": ["08:30", "12:30", "14:00"]
-        },
-        {
-          "date": "10/29",
-          "time": ["10:00", "11:00", "13:30", "16:00", "18:30"]
-        },
-        {
-          "date": "10/30",
-          "time": ["09:30", "15:30", "17:00"]
-        }
-      ]
+      "intro": ""
     },
     {
       "id": 7,
@@ -291,17 +211,103 @@
       "education": "",
       "experience": "",
       "lang": "",
-      "intro": "",
-      "openTime": [
-        {
-          "date": "10/31",
-          "time": ["11:00", "14:30", "16:00", "19:30"]
-        },
-        {
-          "date": "11/01",
-          "time": ["09:30", "12:00", "15:30"]
-        }
-      ]
+      "intro": ""
+    },
+    {
+      "id": 8,
+      "avatar": "../assets/images/teacher/Brian.png",
+      "name": "Ray",
+      "title": "資深 軟體工程師",
+      "rate": 4.7,
+      "total_students": 80,
+      "total_courses": 3,
+      "links_github": "https://github.com/",
+      "links_linkedin": "https://tw.linkedin.com/",
+      "links_codepen": "https://codepen.io/your-work",
+      "education": "",
+      "experience": "",
+      "lang": "",
+      "intro": ""
+    },
+    {
+      "id": 9,
+      "avatar": "../assets/images/teacher/Brian.png",
+      "name": "張予",
+      "title": "上市企業 全端工程師",
+      "rate": 4.6,
+      "total_students": 174,
+      "total_courses": 5,
+      "links_github": "https://github.com/",
+      "links_linkedin": "https://tw.linkedin.com/",
+      "links_codepen": "https://codepen.io/your-work",
+      "education": "",
+      "experience": "",
+      "lang": "",
+      "intro": ""
+    },
+    {
+      "id": 10,
+      "avatar": "../assets/images/teacher/Brian.png",
+      "name": "Tina",
+      "title": "外商 後端工程師",
+      "rate": 4.9,
+      "total_students": 126,
+      "total_courses": 9,
+      "links_github": "https://github.com/",
+      "links_linkedin": "https://tw.linkedin.com/",
+      "links_codepen": "https://codepen.io/your-work",
+      "education": "",
+      "experience": "",
+      "lang": "",
+      "intro": ""
+    },
+    {
+      "id": 11,
+      "avatar": "../assets/images/teacher/Brian.png",
+      "name": "郭耀壬",
+      "title": " Unity 工程師",
+      "rate": 4.5,
+      "total_students": 201,
+      "total_courses": 5,
+      "links_github": "https://github.com/",
+      "links_linkedin": "https://tw.linkedin.com/",
+      "links_codepen": "https://codepen.io/your-work",
+      "education": "",
+      "experience": "",
+      "lang": "",
+      "intro": ""
+    },
+    {
+      "id": 12,
+      "avatar": "../assets/images/teacher/Brian.png",
+      "name": "許哲亭",
+      "title": " App 研發工程師",
+      "rate": 5,
+      "total_students": 147,
+      "total_courses": 9,
+      "links_github": "https://github.com/",
+      "links_linkedin": "https://tw.linkedin.com/",
+      "links_codepen": "https://codepen.io/your-work",
+      "education": "",
+      "experience": "",
+      "lang": "",
+      "intro": ""
+    },
+    {
+      "id": 13,
+      "avatar": "../assets/images/teacher/Brian.png",
+      "name": "Peggy",
+      "title": " UI/UX 設計師",
+      "rate": 4.9,
+      "total_students": 79,
+      "total_courses": 4,
+      "links_github": "https://github.com/",
+      "links_linkedin": "https://tw.linkedin.com/",
+      "links_codepen": "https://codepen.io/your-work",
+      "education": "",
+      "experience": "",
+      "lang": "",
+      "intro": ""
     }
   ],
   "courses": [
@@ -1088,62 +1094,6 @@
       "price": 1500,
       "duration": 50,
       "date": "2023-07-15T16:00:00.000Z"
-    }
-  ],
-  "categories": [
-    {
-      "topic": "後端",
-      "categories": [
-        "Python",
-        "Javascript",
-        "JAVA",
-        "C",
-        "C#",
-        "網路爬蟲",
-        "PHP"
-      ]
-    },
-    {
-      "topic": "資料庫",
-      "categories": ["SQL", "mongoDB"]
-    },
-    {
-      "topic": "資安",
-      "categories": ["逆向工程", "道德駭客", "Linux"]
-    },
-    {
-      "topic": "產品測試",
-      "categories": ["Selenium", "自動測試", "Postman"]
-    },
-    {
-      "topic": "UI / UX",
-      "categories": ["Figma", "Adobe XD ", "Photoshop"]
-    },
-    {
-      "topic": "開發維運",
-      "categories": ["Linux", "AWS", "Docker", "Kubernetes"]
-    },
-    {
-      "topic": "行動應用",
-      "categories": [
-        "SpringBoot",
-        "Android 開發",
-        "Kotlin",
-        "iOS 開發",
-        "Swift"
-      ]
-    },
-    {
-      "topic": "AI",
-      "categories": ["機器學習"]
-    },
-    {
-      "topic": "遊戲開發",
-      "categories": ["Unity"]
-    },
-    {
-      "topic": "職涯",
-      "categories": ["作品修改", "履歷", "面試", "職涯諮詢"]
     }
   ]
 }
