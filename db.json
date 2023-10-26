@@ -918,5 +918,37 @@
       "topic": "職涯",
       "categories": ["作品修改", "履歷", "面試", "職涯諮詢"]
     }
+  ],
+  "user_courses":[
+    {
+      "id":1,
+      "userId":1,
+      "attendTime": [
+        {
+          "courseId":1,
+          "date": "10/16",
+          "time": "10:00"
+        },
+        {
+          "courseId":1,
+          "date": "10/17",
+          "time": "09:30"
+        },
+        {
+          "courseId":1,
+          "date": "10/18",
+          "time": "12:00"
+        },{
+          "courseId":1,
+          "date": "10/24",
+          "time": "08:30"
+        },
+        {
+          "courseId":2,
+          "date": "10/25",
+          "time": "10:00"
+        }
+      ]
+    }
   ]
 }
