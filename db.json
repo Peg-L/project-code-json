@@ -947,6 +947,31 @@
           "courseId":2,
           "date": "10/25",
           "time": "10:00"
+        },
+        {
+          "courseId":2,
+          "date": "10/25",
+          "time": "11:00"
+        },
+        {
+          "courseId":3,
+          "date": "11/02",
+          "time": "10:00"
+        },
+        {
+          "courseId":3,
+          "date": "11/03",
+          "time": "10:00"
+        },
+        {
+          "courseId":3,
+          "date": "11/04",
+          "time": "10:00"
+        },
+        {
+          "courseId":2,
+          "date": "11/04",
+          "time": "11:00"
         }
       ]
     }
