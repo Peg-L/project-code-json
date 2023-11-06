@@ -1,0 +1,5 @@
+{
+    "/users/:userId/attendTime": "/attendTime",
+    "/users/:userId/attendTime/:id": "/attendTime/:id",
+    "/users/:userId/attendTime/:attendTimeId/course": "/courses/:courseId"
+}
