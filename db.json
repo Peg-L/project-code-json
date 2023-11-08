@@ -12,13 +12,7 @@
       "birthdate": "1990-05-14T16:00:00.000Z",
       "gender": "男",
       "address": "台北市大安區忠孝東路123號",
-      "followList": [
-        1,
-        2,
-        3,
-        5,
-        20
-      ]
+      "followList": [1, 2, 3, 5, 20]
     },
     {
       "id": 2,
@@ -32,10 +26,7 @@
       "birthdate": "1988-11-29T16:00:00.000Z",
       "gender": "女",
       "address": "新北市三峡區中山路45號",
-      "followList": [
-        1,
-        10
-      ]
+      "followList": [1, 10]
     },
     {
       "id": 3,
@@ -49,10 +40,7 @@
       "birthdate": "1995-07-21T16:00:00.000Z",
       "gender": "男",
       "address": "台中市西屯區文心路78號",
-      "followList": [
-        2,
-        5
-      ]
+      "followList": [2, 5]
     },
     {
       "id": 4,
@@ -66,10 +54,7 @@
       "birthdate": "1980-03-09T16:00:00.000Z",
       "gender": "女",
       "address": "高雄市苓雅區林森一路56號",
-      "followList": [
-        3,
-        7
-      ]
+      "followList": [3, 7]
     },
     {
       "id": 5,
@@ -83,10 +68,7 @@
       "birthdate": "1985-09-04T16:00:00.000Z",
       "gender": "男",
       "address": "台南市東區東門路99號",
-      "followList": [
-        12,
-        11
-      ]
+      "followList": [12, 11]
     }
   ],
   "comments": [
@@ -2505,10 +2487,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文",
-        "英文"
-      ],
+      "lang": ["中文", "英文"],
       "intro": "嗨，大家好，我是麥克！作為一名前端工程師，我擁有豐富的業界經驗和五年的家教經歷。我的教學使命是幫助零基礎的學生，如你，輕鬆進入網頁開發的精彩世界。我專精於HTML、CSS、JavaScript，以及流行的前端框架React和Vue。無論你是想入門、提升前端技能，或者將設計轉化為實際網頁，我都會提供量身定制的指導，以實戰專案開發方式，讓你更快地進步。加入我的課程，我們將一起成為前端大師！"
     },
     {
@@ -2524,9 +2503,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立台灣大學 資訊系統 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文"
-      ],
+      "lang": ["中文"],
       "intro": "我是榮哥，多年經驗的全端工程師。專精於前端開發和網站安全測試。我的使命是協助學生打造成功的前端職涯，並教導你們如何保護網站受到潛在威脅。擁有多年諮詢經驗，我可以為你提供實用的建議，幫助你在競爭激烈的市場中脫穎而出。我教授前端開發技能，包括HTML、CSS、JavaScript，以及網站安全測試的專業知識。如果你渴望掌握這些關鍵技能，那就讓我們一起開始吧！"
     },
     {
@@ -2542,10 +2519,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立清華大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文",
-        "英文"
-      ],
+      "lang": ["中文", "英文"],
       "intro": "嗨，我是艾莉絲，有 8 年的 Python 開發經歷和 3 年的教學經驗。我的專業有軟體開發、數據分析、人工智慧等各個 Python 相關領域，能和你分享非常專業且豐富的知識和實際案例，協助您建立紮實的 Python 基礎，無論你是初學者還是資深工程師，我都可以協助你找到適合自己的學習路徑。我將帶領學生深入探索 Python 的各個層面，從基礎知識到高級應用，讓你具備全面的 Python 技能，以應對不同領域的挑戰。"
     },
     {
@@ -2561,10 +2535,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文",
-        "英文"
-      ],
+      "lang": ["中文", "英文"],
       "intro": ""
     },
     {
@@ -2580,9 +2551,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文"
-      ],
+      "lang": ["中文"],
       "intro": "嗨，各位，我就是賽門，Java 奇才！不知道你是否也有過看了一堆教材，卻只會寫一個 Hello World 的煩惱？或者你對 Java 有一些基礎，但急需一場正式的 Java 大冒險，那你來對地方了！\n\n我的課程不僅適合 Java 新手，已經有一些基礎的朋友也非常歡迎！我將帶你進入 Java 的神奇世界，從物件導向程式設計到貪食蛇遊戲、出埃及記遊戲、甚至面試題目解答，通通來一波！一起來杯 Java 吧，讓你輕輕鬆鬆成為 Java 大師！"
     },
     {
@@ -2598,10 +2567,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文",
-        "英文"
-      ],
+      "lang": ["中文", "英文"],
       "intro": "哈囉哈囉，我是莎莎！任職於新加坡的軟體測試工程師，我熱愛教導並分享關於自動化測試的知識。新手或在職中，我都將幫助你提升自己。\n\n我的課程涵蓋了 Selenium、Python、Postman 等工具，以及測試的實例演示。快來找我學習吧~~"
     },
     {
@@ -2617,10 +2583,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文",
-        "英文"
-      ],
+      "lang": ["中文", "英文"],
       "intro": "同學好，我是布萊恩老師！作為一名DevOps工程師，我將帶你從雲端基礎到Linux 操作，再到 Docker 和 Kubernetes 的深入掌握，甚至教你如何製作ChatGPT 網頁應用。我的教學方法深入淺出，帶領你掌握當今最熱門的技術。跟著我一起學習，讓我們一起探索這個領域的奧秘！"
     },
     {
@@ -2636,9 +2599,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文"
-      ],
+      "lang": ["中文"],
       "intro": ""
     },
     {
@@ -2654,9 +2615,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文"
-      ],
+      "lang": ["中文"],
       "intro": "作為一名全端工程師，我致力於教授前端性能優化、道德駭客技巧和 AWS 雲端基礎。想要提高網站速度嗎? 保護系統免受駭客攻擊? 或是想在 Amazon AWS 雲端上建立各種服務? 不論你想學什麼、有什麼樣的疑問，我都會非常有耐心的教學和講解"
     },
     {
@@ -2672,10 +2631,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文",
-        "英文"
-      ],
+      "lang": ["中文", "英文"],
       "intro": "嗨，我是Tina，目前在知名外商公司擔任後端工程師！你是否對程式世界充滿好奇，但卻感到迷茫？別擔心，我會帶你一步一步走過程式的迷宮，讓你輕鬆掌握C語言的精髓。\n\n我的外商經驗不僅能幫助你了解實際工作需求，還能讓你在面試、履歷上脫穎而出，立即預約上課吧"
     },
     {
@@ -2691,9 +2647,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文"
-      ],
+      "lang": ["中文"],
       "intro": "如果你夢想著自己製作出令人驚嘆的遊戲作品，那你找對人拉！我的課程不僅教授 Unity 和 C# 的專業技能，還能幫助你實現遊戲設計的獨特想法。\n手把手帶你從零開始製作 2D 和 3D 遊戲，掌握遊戲開發的藝術。協助你在遊戲開發領域站穩腳跟，並創建屬於自己的作品。現在就購買課程，一起開啟遊戲開發之旅吧！"
     },
     {
@@ -2709,9 +2663,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文"
-      ],
+      "lang": ["中文"],
       "intro": "無論你是初學者還是已有一些程式經驗，如果你渴望學習如何開發Android或iOS應用程式，我的課程將為你打開全新的視野。我將帶你從零開始，循序漸進地掌握Kotlin、Swift等程式語言，讓你能夠獨立開發令人驚嘆的行動應用程式。不論你的目標是成為App開發專家或者僅僅想擁有自己的APP，我都會提供專業且有趣的教學，讓你輕鬆達成目標。現在就加入我的課程，開始你的APP開發之旅吧！"
     },
     {
@@ -2727,9 +2679,7 @@
       "links_codepen": "https://codepen.io/your-work",
       "education": "國立中央大學 資訊工程 碩士 畢業",
       "experience": "2020.08 - 迄今 上市企業 前端工程師",
-      "lang": [
-        "中文"
-      ],
+      "lang": ["中文"],
       "intro": "嗨，我是Peggy，一位擁有多年UI/UX設計經驗的設計師！UI/UX學習可能令人感到困惑，但我的課程將為你解決兩個常見的學習痛點：創建引人入勝的用戶體驗和將設計概念實現為前端作品。我將帶你深入探索UI/UX設計原則，讓你的設計脫穎而出。同時，我們將學習使用HTML、CSS、以及工具如Figma和Adobe XD，將設計轉化為實際的網頁和應用。現在就加入我的課程，一起打造優秀的UI/UX設計作品！"
     }
   ],
@@ -2739,16 +2689,8 @@
       "teacherId": 1,
       "commentId": 1,
       "name": "從零開始成為切版大師",
-      "badges": [
-        "熱門",
-        "優質老師"
-      ],
-      "tags": [
-        "業界技術",
-        "實戰專案開發",
-        "5年家教經驗",
-        "前端"
-      ],
+      "badges": ["熱門", "優質老師"],
+      "tags": ["業界技術", "實戰專案開發", "5年家教經驗", "前端"],
       "rate": 4.9,
       "commentNum": 35,
       "level": "入門",
@@ -2777,25 +2719,14 @@
       "teacherId": 2,
       "commentId": 2,
       "name": "一起打造你的前端職涯",
-      "badges": [
-        "優質老師"
-      ],
-      "tags": [
-        "面試職涯顧問",
-        "3年諮詢經驗",
-        "職涯規劃"
-      ],
+      "badges": ["優質老師"],
+      "tags": ["面試職涯顧問", "3年諮詢經驗", "職涯規劃"],
       "rate": 4.9,
       "commentNum": 29,
       "level": "入門",
       "info": "協助你定位自己的前端職涯，並提供實用的指導和建議，以確保你能夠在競爭激烈的市場中脫穎而出。",
       "topics": "前端",
-      "categories": [
-        "作品修改",
-        "履歷",
-        "面試",
-        "職涯諮詢"
-      ],
+      "categories": ["作品修改", "履歷", "面試", "職涯諮詢"],
       "mainPoints": [
         "為你量身訂製的職涯發展計劃，協助達成職業目標。",
         "了解如何打造吸引面試官的前端作品集。",
@@ -2810,25 +2741,14 @@
       "teacherId": 3,
       "commentId": 3,
       "name": "Python 全攻略",
-      "badges": [
-        "熱門",
-        "優質老師"
-      ],
-      "tags": [
-        "業界技術",
-        "實戰專案開發",
-        "python"
-      ],
+      "badges": ["熱門", "優質老師"],
+      "tags": ["業界技術", "實戰專案開發", "python"],
       "rate": 5,
       "commentNum": 37,
       "level": "入門",
       "info": "嗨，我是艾莉絲，有 8 年的 Python 開發經歷和 3 年的教學經驗。我的專業有軟體開發、數據分析、人工智慧等各個 Python 相關領域，能和你分享非常專業且豐富的知識和實際案例，協助您建立紮實的 Python 基礎，無論你是初學者還是資深工程師，我都可以協助你找到適合自己的學習路徑。我將帶領學生深入探索 Python 的各個層面，從基礎知識到高級應用，讓你具備全面的 Python 技能，以應對不同領域的挑戰。",
       "topics": "後端",
-      "categories": [
-        "Python",
-        "機器學習",
-        "SQL"
-      ],
+      "categories": ["Python", "機器學習", "SQL"],
       "mainPoints": [
         "個人專注的學習計劃：根據其獨特的學習風格、能力和目標設計一個個人的學習計劃。",
         "學會基本Python語法、培養程式邏輯以及程式語言觀念",
@@ -2843,24 +2763,14 @@
       "teacherId": 1,
       "commentId": 1,
       "name": "JavaScript 大師",
-      "badges": [
-        "優質老師"
-      ],
-      "tags": [
-        "實戰專案開發",
-        "5年家教經驗",
-        "前端"
-      ],
+      "badges": ["優質老師"],
+      "tags": ["實戰專案開發", "5年家教經驗", "前端"],
       "rate": 5,
       "commentNum": 27,
       "level": "進階",
       "info": "歡迎一起探索 JavaScript 更多神奇功能和應用！",
       "topics": "前端",
-      "categories": [
-        "JavaScript",
-        "React",
-        "Vue"
-      ],
+      "categories": ["JavaScript", "React", "Vue"],
       "mainPoints": [
         "寫出運作優良且穩定性高的 JS 程式碼",
         "深入了解高階概念，如閉包、原型繼承和異步編程。",
@@ -2875,28 +2785,14 @@
       "teacherId": 9,
       "commentId": 2,
       "name": "前端性能優化",
-      "badges": [
-        "熱門",
-        "新上架"
-      ],
-      "tags": [
-        "網站速度",
-        "性能優化",
-        "前端必學"
-      ],
+      "badges": ["熱門", "新上架"],
+      "tags": ["網站速度", "性能優化", "前端必學"],
       "rate": 4.8,
       "commentNum": 38,
       "level": "進階",
       "info": "加速網頁世界！從優化技巧到高效工具，我將教你提高網站速度，提供極致用戶體驗，讓網站快如閃電！",
       "topics": "前端",
-      "categories": [
-        "HTML",
-        "CSS",
-        "SCSS",
-        "JavaScript",
-        "React",
-        "Vue"
-      ],
+      "categories": ["HTML", "CSS", "SCSS", "JavaScript", "React", "Vue"],
       "mainPoints": [
         "瞭解網站性能優化的重要性，學習如何減少加載時間和提高網站響應速度。",
         "探討網站最佳實踐、緩存策略、圖像壓縮和資源壓縮等技術。",
@@ -2912,22 +2808,13 @@
       "commentId": 3,
       "name": "UI/UX 設計和前端開發",
       "badges": "",
-      "tags": [
-        "UI 設計",
-        "UX優化",
-        "用戶界面設計"
-      ],
+      "tags": ["UI 設計", "UX優化", "用戶界面設計"],
       "rate": 4.7,
       "commentNum": 21,
       "level": "進階",
       "info": "磨練你的設計技能，並以極致用戶體驗呈現你的前端作品。探索 UI/UX 設計原則，打造吸引人且易用的介面，讓使用者留下深刻印象！",
       "topics": "UI / UX",
-      "categories": [
-        "HTML",
-        "CSS",
-        "Figma",
-        "Adobe XD"
-      ],
+      "categories": ["HTML", "CSS", "Figma", "Adobe XD"],
       "mainPoints": [
         "探討用戶介面（UI）和用戶體驗（UX）設計原則，並如何將它們應用於前端開發。",
         "學習設計網站和應用程序的直觀用戶界面，優化用戶體驗。",
@@ -2943,23 +2830,13 @@
       "commentId": 1,
       "name": "前端開發入門",
       "badges": "",
-      "tags": [
-        "前端開發",
-        "動畫效果",
-        "動態網頁"
-      ],
+      "tags": ["前端開發", "動畫效果", "動態網頁"],
       "rate": 3,
       "commentNum": 29,
       "level": "入門",
       "info": "想學習網頁前端絕對不能錯過的第一堂課！我將手把手帶你打造互動性網站！",
       "topics": "前端",
-      "categories": [
-        "HTML",
-        "CSS",
-        "SCSS",
-        "JavaScript",
-        "jQuery"
-      ],
+      "categories": ["HTML", "CSS", "SCSS", "JavaScript", "jQuery"],
       "mainPoints": [
         "由淺入深帶你學習所有前端後端必要知識與技能。",
         "能使用 JavaScript, jQuery 去製作具有各種功能的網頁程序或互動效果。",
@@ -2974,25 +2851,14 @@
       "teacherId": 5,
       "commentId": 2,
       "name": "放碼過來！新版Java坦克大戰",
-      "badges": [
-        "優質老師"
-      ],
-      "tags": [
-        "實戰專案開發",
-        "業界技術",
-        "Java"
-      ],
+      "badges": ["優質老師"],
+      "tags": ["實戰專案開發", "業界技術", "Java"],
       "rate": 4.7,
       "commentNum": 28,
       "level": "進階",
       "info": "有人感嘆“聽過很多道理，卻總是過不好生活“，那麽您會感嘆“看了N部影片，讀了幾噸教材，卻只能寫一個Hello World？”嗎？如果您對Java編程語言已經有一些基本的了解，卻苦於無法獨立設計、完成一個項目，也希望了解嚴肅、正式的企業級開發理念和實踐經驗，那麽這個課程，為您量身定做。",
       "topics": "後端",
-      "categories": [
-        "Java",
-        "作品修改",
-        "面試",
-        "履歷"
-      ],
+      "categories": ["Java", "作品修改", "面試", "履歷"],
       "mainPoints": [
         "本課程適用具備基本Java語言基礎，但沒有實際開發經驗，不能獨立設計、規劃、開發項目的初學者",
         "具備一定開發經驗，但對開發環境、測試、發布自動化了解、實踐不多的Java程序員"
@@ -3006,25 +2872,14 @@
       "teacherId": 10,
       "commentId": 3,
       "name": "C語言引路人 ： 從零開始，向下紮根",
-      "badges": [
-        "新上架",
-        "優質老師"
-      ],
-      "tags": [
-        "5年家教經驗",
-        "後端必學"
-      ],
+      "badges": ["新上架", "優質老師"],
+      "tags": ["5年家教經驗", "後端必學"],
       "rate": 4.8,
       "commentNum": 15,
       "level": "入門",
       "info": "C語言的入門課程，導師由淺入深的講解，就包含C語言必學的基礎知識，讓你成為獨當一面的軟韌體工程師，內容包含C語言的資料型態、陣列、輸入輸出、運算式、條件式、迴圈、函式、巨集、別名、結構體、共用體、枚舉、指標、檔案讀寫和命令列引數。",
       "topics": "後端",
-      "categories": [
-        "C",
-        "作品修改",
-        "面試",
-        "履歷"
-      ],
+      "categories": ["C", "作品修改", "面試", "履歷"],
       "mainPoints": [
         "在最短的時間，帶你跳過學習痛點",
         "不用花大錢，讓你學會所有基礎知識",
@@ -3040,26 +2895,14 @@
       "teacherId": 11,
       "commentId": 1,
       "name": "Unity 零基礎到製作2D手機遊戲",
-      "badges": [
-        "優質老師"
-      ],
-      "tags": [
-        "基礎C#",
-        "創建自己的遊戲",
-        "Animation動畫製作"
-      ],
+      "badges": ["優質老師"],
+      "tags": ["基礎C#", "創建自己的遊戲", "Animation動畫製作"],
       "rate": 4.5,
       "commentNum": 29,
       "level": "入門",
       "info": "本課程是為Unity初學者設計的課程，最後會帶各位把製作的遊戲安裝到Android手機與iPhone手機上。若您是MAC電腦，可以開發Android或iPhone手機的遊戲，但若您的電腦為Windows系統，則只能開發Android手機的遊戲，請大家要注意。",
       "topics": "遊戲開發",
-      "categories": [
-        "C#",
-        "Unity",
-        "作品修改",
-        "Android 開發",
-        "iOS 開發"
-      ],
+      "categories": ["C#", "Unity", "作品修改", "Android 開發", "iOS 開發"],
       "mainPoints": [
         "可學會基本C#程式語言",
         "Unity操作介面及基本操作",
@@ -3074,23 +2917,14 @@
       "teacherId": 10,
       "commentId": 2,
       "name": "基礎惡意程式與軟體逆向實戰技巧",
-      "badges": [
-        "新上架"
-      ],
-      "tags": [
-        "駭客",
-        "逆向工程",
-        "分析惡意程式"
-      ],
+      "badges": ["新上架"],
+      "tags": ["駭客", "逆向工程", "分析惡意程式"],
       "rate": 3.9,
       "commentNum": 17,
       "level": "入門",
       "info": "是否常常覺得網站不安全?駭客們都是如何靠著網站的順水逆流而行的呢?讓目前業界最厲害的白帽駭客來告訴你!",
       "topics": "資安",
-      "categories": [
-        "逆向工程",
-        "道德駭客"
-      ],
+      "categories": ["逆向工程", "道德駭客"],
       "mainPoints": [
         "惡意程式分析",
         "熟悉組合語言",
@@ -3106,25 +2940,14 @@
       "teacherId": 3,
       "commentId": 3,
       "name": "Python基礎課程和網路爬蟲入門實戰",
-      "badges": [
-        "新上架",
-        "優質老師"
-      ],
-      "tags": [
-        "網路爬蟲技術",
-        "NBA數據分析",
-        "Code Gym 官網"
-      ],
+      "badges": ["新上架", "優質老師"],
+      "tags": ["網路爬蟲技術", "NBA數據分析", "Code Gym 官網"],
       "rate": 4.7,
       "commentNum": 16,
       "level": "入門",
       "info": "課程主要是教同學從完全不會寫程式，到能夠撰寫出抓取網路資料的爬蟲程式，並將資料儲存至資料庫，搭配課程中的專題，實際應用Python",
       "topics": "後端",
-      "categories": [
-        "Python",
-        "網路爬蟲",
-        "SQL"
-      ],
+      "categories": ["Python", "網路爬蟲", "SQL"],
       "mainPoints": [
         "網路爬蟲程式教學，網路上有許多豐富的資訊，我們可以透過Python 抓取網頁資料工具撰寫爬蟲程式自動化蒐集每天最新資料",
         "資料庫基礎教學，抓取下來的數據要能夠有效的被使用，必須將數據儲存在資料庫當中，課程單元將會教同學如何使用資料庫技術和SQL 語法，並且有效使用這些數據資料"
@@ -3138,24 +2961,14 @@
       "teacherId": 5,
       "commentId": 1,
       "name": "來杯Java吧!",
-      "badges": [
-        "新上架"
-      ],
-      "tags": [
-        "貪食蛇遊戲",
-        "面試題目解題",
-        "物件導向程式設計"
-      ],
+      "badges": ["新上架"],
+      "tags": ["貪食蛇遊戲", "面試題目解題", "物件導向程式設計"],
       "rate": 4.7,
       "commentNum": 14,
       "level": "入門",
       "info": "從入門開始學習Java語法，課程包含Java 8、物件導向程式設計，製作貪食蛇遊戲、出埃及記遊戲、面試題目解題、MySQL資料庫、Servlet、JSP網頁開發、Stream、多線程Java編寫等等內容，一步一步成為Java大師。",
       "topics": "後端",
-      "categories": [
-        "Java",
-        "SQL",
-        "SpringBoot"
-      ],
+      "categories": ["Java", "SQL", "SpringBoot"],
       "mainPoints": [
         "在Java當中預防SQL Injection攻擊資料庫",
         "使用多線程Java編寫（Multi-threading Programming），提高運算速度",
@@ -3170,21 +2983,14 @@
       "teacherId": 11,
       "commentId": 2,
       "name": "從零開始，Unity3D 射擊遊戲製作真簡單",
-      "badges": [
-        "優質老師"
-      ],
-      "tags": [
-        "3D 遊戲製作"
-      ],
+      "badges": ["優質老師"],
+      "tags": ["3D 遊戲製作"],
       "rate": 4.8,
       "commentNum": 23,
       "level": "入門",
       "info": "會想來開課此堂課程，是因為在市面上課程較少人願意講解 3D 遊戲製作，很大部分的原因在於 3D 遊戲在製作環節設計上，遠遠比 2D 遊戲上要注意的細節更多，你需要從物理引擎操控角色開始做設計、AI 化的流程，以及複雜且細微的動畫配置。聽起來有點困難是嗎？沒關係，只有你有興趣，我將在這堂課程中，有條理有架構的安排循序漸進內容，毫無保留的分享給喜歡遊戲製作的你！",
       "topics": "遊戲開發",
-      "categories": [
-        "C#",
-        "Unity"
-      ],
+      "categories": ["C#", "Unity"],
       "mainPoints": [
         "你會學習到設計 3D 遊戲需要的知識，ARPG 遊戲的架構、Unity 的廣泛應用。",
         " 從零開始學習，第三人稱視角的 3D 射擊遊戲是如何架構，需要考量哪些遊戲層面，更能藉此學會 C# 語法以及 Unity 的實際應用。",
@@ -3199,24 +3005,14 @@
       "teacherId": 12,
       "commentId": 3,
       "name": "Android APP高效入門 強靭基礎刻不容緩",
-      "badges": [
-        "熱門",
-        "優質老師"
-      ],
-      "tags": [
-        "熱愛安卓",
-        "APP金鑰與上架",
-        "自行設計網路銀行 APP"
-      ],
+      "badges": ["熱門", "優質老師"],
+      "tags": ["熱愛安卓", "APP金鑰與上架", "自行設計網路銀行 APP"],
       "rate": 5,
       "commentNum": 42,
       "level": "入門",
       "info": "眾多業界 Android 開發人員觀看的技術部落格「綠豆湯」，由 Hank 老師一手建立，裡面所撰寫的百篇心得文章，結合了二十多年實務開發與業界教學經驗，現在老師專為初學者規劃設計課程，將其經驗淬煉成高效率的學習方法，讓學員一步步依照內容，取得 APP 程式設計的能力、建置商業上架 APP 方法，為你開創不同層次的程式視野。",
       "topics": "行動應用",
-      "categories": [
-        "Java",
-        "Android 開發"
-      ],
+      "categories": ["Java", "Android 開發"],
       "mainPoints": [
         "自行設計出具與使用者互動、計算、網路連線、多畫面的 Android APP",
         "類似線上網路銀行功能的 APP，如餘額查詢、交易記錄，課後練習如取得股票記錄",
@@ -3231,25 +3027,14 @@
       "teacherId": 2,
       "commentId": 1,
       "name": "Web網站安全測試（Penetration Testing）- 從初學到精通",
-      "badges": [
-        "熱門"
-      ],
-      "tags": [
-        "從駭客角度保護網站",
-        "web應用程序安全測試",
-        "滲透測試"
-      ],
+      "badges": ["熱門"],
+      "tags": ["從駭客角度保護網站", "web應用程序安全測試", "滲透測試"],
       "rate": 4.7,
       "commentNum": 33,
       "level": "入門",
       "info": "你想了解黑客是如何攻擊網站和Web應用的嗎，你想知道如何保護他們免受黑客攻擊嗎？你想知道你寫出的代碼是安全的嗎？那麽讓我們一起走進web網站安全測試吧。這是一套關於網站和web應用滲透測試的綜合課，這門課，將帶你從一個初學者開始，從一個沒有滲透測試的起點開始，走向專業的滲透測試。",
       "topics": "資安",
-      "categories": [
-        "Linux",
-        "JavaScript",
-        "SQL",
-        "作品修改"
-      ],
+      "categories": ["Linux", "JavaScript", "SQL", "作品修改"],
       "mainPoints": [
         "學會發現基本和高級存儲型XSS（stored XSS）漏洞",
         "學習編寫正確SQL語句的方法來以防止SQL注入"
@@ -3264,21 +3049,13 @@
       "commentId": 2,
       "name": "初學道德駭客",
       "badges": "",
-      "tags": [
-        "保護系統免受駭客攻擊",
-        "道德駭客/滲透測試"
-      ],
+      "tags": ["保護系統免受駭客攻擊", "道德駭客/滲透測試"],
       "rate": 4.6,
       "commentNum": 30,
       "level": "入門",
       "info": "歡迎這門全面的道德駭客課程！本課程假設您沒有任何基礎知識，在學習結束時，您將能夠像黑帽駭客一樣破解系統並像安全專家一樣保護它們！",
       "topics": "資安",
-      "categories": [
-        "Linux",
-        "JavaScript",
-        "SQL",
-        "道德駭客"
-      ],
+      "categories": ["Linux", "JavaScript", "SQL", "道德駭客"],
       "mainPoints": [
         "了解網站如何運作，如何發現和利用 Web 應用程式漏洞來攻擊網站。",
         "安裝和使用 Kali Linux - 滲透測試作業系統。",
@@ -3293,9 +3070,7 @@
       "teacherId": 7,
       "commentId": 3,
       "name": "AWS雲端上Linux從零開始到架站與應用(基礎)",
-      "badges": [
-        "熱門"
-      ],
+      "badges": ["熱門"],
       "tags": [
         "具網路基礎概念者佳",
         "建置資料科學的雲端開發環境",
@@ -3306,10 +3081,7 @@
       "level": "入門",
       "info": "本課程從0開始，教您在AWS雲端建置Linux虛擬機，不僅教授Linux系統的操作，在雲端Linux架設與管理現今最實務的各種站台，並利用雲端無窮的資源，建置一個資料科學的雲端開發環境並測試文字雲",
       "topics": "開發維運",
-      "categories": [
-        "Linux",
-        "AWS"
-      ],
+      "categories": ["Linux", "AWS"],
       "mainPoints": [
         "學習如何在雲端建置一台Linux虛擬機的完整流程。",
         "在雲端Linux實作架站與應用",
@@ -3324,9 +3096,7 @@
       "teacherId": 9,
       "commentId": 1,
       "name": "AWS雲端實戰基礎",
-      "badges": [
-        "優質老師"
-      ],
+      "badges": ["優質老師"],
       "tags": [
         "20年實體認證課程教授經驗",
         "AWS帳號申請",
@@ -3337,11 +3107,7 @@
       "level": "入門",
       "info": "本課程教大家管理與使用Amazon AWS雲端，除了一步步教大家把現今AWS最常用的基礎服務實作出來並測試連線成功外，還要學會『雲端網路架構規劃』與『雲端安全』，這樣才能讓企業安全並穩定的在雲上運營。",
       "topics": "開發維運",
-      "categories": [
-        "Linux",
-        "SQL",
-        "職涯諮詢"
-      ],
+      "categories": ["Linux", "SQL", "職涯諮詢"],
       "mainPoints": [
         "Amazon EC2虛擬機（包含Windows Server 2022與Linux）並建置網站",
         "AMI image管理（實作虛擬機與AMI的互轉）",
@@ -3357,11 +3123,7 @@
       "commentId": 2,
       "name": "從 Figma 到 HTML CSS 和 JavaScript 的 UI UX 設計",
       "badges": "",
-      "tags": [
-        "無須具備相關知識",
-        "業界標準設計與開發流程",
-        "SVG 形狀變換"
-      ],
+      "tags": ["無須具備相關知識", "業界標準設計與開發流程", "SVG 形狀變換"],
       "rate": 3.2,
       "commentNum": 31,
       "level": "入門",
@@ -3389,13 +3151,8 @@
       "teacherId": 13,
       "commentId": 3,
       "name": "終極網頁設計師與網頁開發人員課程",
-      "badges": [
-        "熱門"
-      ],
-      "tags": [
-        "從頭到尾規劃、設計和編碼自己的網站!",
-        "成為自由工作者"
-      ],
+      "badges": ["熱門"],
+      "tags": ["從頭到尾規劃、設計和編碼自己的網站!", "成為自由工作者"],
       "rate": 4.3,
       "commentNum": 20,
       "level": "入門",
@@ -3426,21 +3183,13 @@
       "commentId": 1,
       "name": "基於Selenium WebDriver 的Web 應用自動化測試",
       "badges": "",
-      "tags": [
-        "測試工程師",
-        "Python",
-        "新加玻"
-      ],
+      "tags": ["測試工程師", "Python", "新加玻"],
       "rate": 3.7,
       "commentNum": 16,
       "level": "入門",
       "info": "在一般中小型的軟體公司，是不太重視測試或是有測試團隊也只是手動測試而已。但是我來到新加坡工作後接觸到許多團隊是有專業測試工程師，大部分薪水也是高於軟體工程師。不管你是用什麼語言都沒關係，先用python了解測試，再切換至你擅長的電腦語言就好了。 當我學測試時，是不懂python的，但是pyhton與selenium資源與資料是最多，更何況python很熱門，就想順便學習好了。  相信我，如果你有coding的經驗，學python很簡單的。",
       "topics": "開發維運",
-      "categories": [
-        "Selenium",
-        "Python",
-        "自動測試"
-      ],
+      "categories": ["Selenium", "Python", "自動測試"],
       "mainPoints": [
         "您將學習Selenium，Python和手動測試。所有您需要確保您在自動化測試或頂尖學習體驗中的夢想工作！",
         "Word-By-Word說明：在整個課程中，我將解釋每一行代碼，而不會跳過一行代碼。",
@@ -3455,22 +3204,14 @@
       "teacherId": 6,
       "commentId": 2,
       "name": "軟體 API測試從初學者到專業-完整的Postman指南",
-      "badges": [
-        "新上架"
-      ],
-      "tags": [
-        "使用Postman提交RESTful請求",
-        "確保您的API按預期工作"
-      ],
+      "badges": ["新上架"],
+      "tags": ["使用Postman提交RESTful請求", "確保您的API按預期工作"],
       "rate": 4.1,
       "commentNum": 18,
       "level": "進階",
       "info": "RESTful API（或簡稱REST API）現在無處不在，但同時它們開始變得越來越複雜：不同的HTTP方法，標題，cookie，處理文件上傳或使用JWT等進行身份驗證多得多。\r\n但是，在開始投入時間編寫代碼來檢索API提供的數據之前，為什麼不首先測試請求以確保一切按預期工作？\r\n這是Postman App的用武之地！ Postman允許您使用所需的HTTP方法和參數快速創建請求，提交請求並輕鬆檢查結果。",
       "topics": "產品測試",
-      "categories": [
-        "Postman",
-        "自動測試"
-      ],
+      "categories": ["Postman", "自動測試"],
       "mainPoints": [
         "學習如何處理身份驗證/授權機制，如基本身份驗證，JWT。",
         "開始編寫API測試。",
@@ -3485,25 +3226,14 @@
       "teacherId": 6,
       "commentId": 3,
       "name": "Selenium WebDriver自動化測試Java版 + 面試問題",
-      "badges": [
-        "熱門"
-      ],
-      "tags": [
-        "自動化測試人員",
-        "實例演示",
-        "工作10年經驗"
-      ],
+      "badges": ["熱門"],
+      "tags": ["自動化測試人員", "實例演示", "工作10年經驗"],
       "rate": 4.8,
       "commentNum": 42,
       "level": "入門",
       "info": "初學者和有基礎的人都適用。加入Selenium最佳中文版課程，讓你的自動化測試水平從初級升向高級，並且會覆蓋在POM, Grid ,Maven，Jenkins, 面試等問題",
       "topics": "產品測試",
-      "categories": [
-        "Selenium",
-        "Java",
-        "自動測試",
-        "面試"
-      ],
+      "categories": ["Selenium", "Java", "自動測試", "面試"],
       "mainPoints": [
         "用100多個實例對Selenium現實場景應用進行深入理解。",
         "你基本上可以搞定任何面試，並能從設計階段開始領導整個Selenium自動化項目。",
@@ -3529,10 +3259,7 @@
       "level": "進階",
       "info": "Docker 是一個開源的應用容器引擎，讓開發者可以打包他們的應用以及依賴包到一個可移植的容器中，然後發佈到任何流行的 Linux 機器或Windows 機器上，也可以實現虛擬化，容器是完全使用沙箱機制,彼此之間不會有任何介面。",
       "topics": "開發維運",
-      "categories": [
-        "Docker",
-        "Linux"
-      ],
+      "categories": ["Docker", "Linux"],
       "mainPoints": [
         "Dockerfile的使用",
         "Docker Compose的编排",
@@ -3548,23 +3275,14 @@
       "commentId": 2,
       "name": "從零開始學 Kotlin 程式設計 - 零基礎開發 Android APP 應用程式",
       "badges": "",
-      "tags": [
-        "由淺入深，無痛學習",
-        "豐富的業界實戰與教學經驗"
-      ],
+      "tags": ["由淺入深，無痛學習", "豐富的業界實戰與教學經驗"],
       "rate": 4.5,
       "commentNum": 30,
       "level": "入門",
       "info": "Kotlin 又被稱之為 Android 界的 Swift， Google 2017年已正式宣布 Kotlin 成為 Android 官方開發語言。Android Studio 3 官方正式直接支援 Kotlin 語法，可以使用 Kotlin 來開發 Android APP 行動應用程式。\n這門課程完全適合初學者，無須任何編寫過程式碼經驗，我們將從零基礎開始介紹，編寫程式語言需具備的基礎知識。首先我們將安裝 Kotlin 開發環境，然後編寫並運行第一行 Kotlin 程式。接下來介紹 Kotlin 基礎語法、邏輯判斷條件控制並討論循環控制等Kotlin 語法基本與進階使用知識，完全從零開始，初學者無痛上手。\n如果你已經是一名 Android (Java) 開發者，你可以透過這門課程來了解超棒 Kotlin 程式語言。讓你可以編寫更乾淨、更強大的應用程式。",
       "topics": "行動應用",
-      "categories": [
-        "Kotlin",
-        "Android 開發"
-      ],
-      "mainPoints": [
-        "掌握 Kotlin 基礎語法",
-        "開發自己的 Android APP 應用程式"
-      ],
+      "categories": ["Kotlin", "Android 開發"],
+      "mainPoints": ["掌握 Kotlin 基礎語法", "開發自己的 Android APP 應用程式"],
       "price": 1100,
       "duration": 50,
       "date": "2023-05-18T16:00:00.000Z"
@@ -3574,9 +3292,7 @@
       "teacherId": 12,
       "commentId": 3,
       "name": "iOS 和 Swift - 完整的 iOS 應用程式開發訓練營",
-      "badges": [
-        "熱門"
-      ],
+      "badges": ["熱門"],
       "tags": [
         "快速掌握 Swift 5.1 和本機應用程式開發",
         "快速了解 Apple 的最新技術"
@@ -3586,10 +3302,7 @@
       "level": "入門",
       "info": "只需一門課程即可從初學者到 iOS 13 應用開發人員。我們知道您來到這裡是因為您珍惜自己的時間。如果您想連續幾個小時觀看某人的節目而不解釋他們在做什麼，那麼您就可以上 YouCube。透過學習這門課程，您可以放心，課程是經過仔細考慮和編輯的。有漂亮的動畫解釋所有困難的概念，讓初學者也能上手。",
       "topics": "行動應用",
-      "categories": [
-        "Swift",
-        "iOS 開發"
-      ],
+      "categories": ["Swift", "iOS 開發"],
       "mainPoints": [
         "創建一個包含 15 個應用程式的組合，以便能夠申請一家科技公司的初級開發人員職位。",
         "課程結束後，您將能夠建立任何您想要的應用程式。",
@@ -3615,12 +3328,7 @@
       "level": "入門",
       "info": "從頭開始學習 Docker、Docker Compose、多容器專案、部署以及有關 Kubernetes 的所有內容！",
       "topics": "開發維運",
-      "categories": [
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "mongoDB"
-      ],
+      "categories": ["Docker", "Kubernetes", "AWS", "mongoDB"],
       "mainPoints": [
         "了解 Docker 和 Kubernetes 是什麼以及為什麼您可能想要使用它們",
         "了解如何手動、使用託管服務或 Kubernetes 部署 Docker 應用程式",
@@ -3635,14 +3343,8 @@
       "teacherId": 7,
       "commentId": 2,
       "name": "邊做邊學 - 製作ChatGPT網頁APP",
-      "badges": [
-        "熱門"
-      ],
-      "tags": [
-        "著重於實戰編程",
-        "OpenAI API",
-        "詳盡的解說和支援"
-      ],
+      "badges": ["熱門"],
+      "tags": ["著重於實戰編程", "OpenAI API", "詳盡的解說和支援"],
       "rate": 4.9,
       "commentNum": 37,
       "level": "入門",
@@ -3671,23 +3373,14 @@
       "teacherId": 11,
       "commentId": 3,
       "name": "人工智慧初學者指南 (Unity)",
-      "badges": [
-        "熱門"
-      ],
-      "tags": [
-        "須熟悉 C# 和 Unity 遊戲開發引擎",
-        "創建自己的遊戲 NPC"
-      ],
+      "badges": ["熱門"],
+      "tags": ["須熟悉 C# 和 Unity 遊戲開發引擎", "創建自己的遊戲 NPC"],
       "rate": 4.4,
       "commentNum": 28,
       "level": "入門",
       "info": "本課程首先詳細介紹向量數學，向量數學是 NPC 運動程式設計的核心。在此之後，路徑點系統將用於在環境中移動角色，然後檢查用於 AI 控制汽車的賽車的 Unity 路徑點系統。在我們應用這些原理來開發導航網格和開發能夠在遊戲環境中找到出路的 NPC 之前，我們需要對圖論和 A* 演算法進行研究。在水族館設置魚類自主遊動之前，我們將對人群進行檢查，從人行道交通的娛樂，到逃離危險的人群。在研究了在遊戲環境中移動 NPC 的不同方式後，我們將透過完整的解釋和更多使用有限狀態機和行為樹的實踐研討會來討論他們的思維能力。",
       "topics": "AI",
-      "categories": [
-        "遊戲開發 AI",
-        "Unity",
-        "C#"
-      ],
+      "categories": ["遊戲開發 AI", "Unity", "C#"],
       "mainPoints": [
         "在 Unity 中使用 C# 設計和程式設計 NPC",
         "將 AI 相關的 Unity Asset 外掛程式實施到現有專案中",
@@ -3704,21 +3397,13 @@
       "commentId": 1,
       "name": "ChatGPT x Unity：終極整合指南",
       "badges": "",
-      "tags": [
-        "AI 聊天應用程式",
-        "追蹤用戶活動",
-        "廣告中介系統"
-      ],
+      "tags": ["AI 聊天應用程式", "追蹤用戶活動", "廣告中介系統"],
       "rate": 4.7,
       "commentNum": 27,
       "level": "進階",
       "info": "本課程將教您如何整合ChatGPT到Unity專案，包括OpenAI API的呼叫、聊天界面設定，以及擴展功能，如文字轉語音、語音轉文字和Oculus SDK的整合。您將學會使用Ace Unity的UI元素，保存對話歷史，管理用戶活動，和貨幣化策略。同時，這個課程還將幫助您改進程式碼架構，涵蓋許多重要主題，讓您成為一位優秀的開發人員。",
       "topics": "AI",
-      "categories": [
-        "ChatGPT",
-        "Unity",
-        "C#"
-      ],
+      "categories": ["ChatGPT", "Unity", "C#"],
       "mainPoints": [
         "將 ChatGPT 整合到您的 Unity 專案中",
         "了解人工智慧在您的專案中的巨大潛力",
@@ -3733,16 +3418,8 @@
       "teacherId": 11,
       "commentId": 2,
       "name": "完整的 Unity® 大師班：構建 2D 和 3D AI 遊戲",
-      "badges": [
-        "熱門",
-        "新上架",
-        "優質老師"
-      ],
-      "tags": [
-        "2D和3D遊戲",
-        "行動開發",
-        "尋路"
-      ],
+      "badges": ["熱門", "新上架", "優質老師"],
+      "tags": ["2D和3D遊戲", "行動開發", "尋路"],
       "rate": 4.8,
       "commentNum": 38,
       "level": "進階",
@@ -3781,10 +3458,7 @@
       "level": "進階",
       "info": "本課程專為希望擴展其能力以在 Blender 中包含 3D 建模的 Unity 開發人員而設計。無論您是有興趣為遊戲設計獨特的 3D 道具、建造出色的關卡，還是調整現有的 Unity 資產，本課程都可以幫助您完成學習曲線，讓您掌握主動權。您將學習像專業人士一樣進行 Blend，並對編輯視訊遊戲道具和關卡設計的所有最常用工具有良好的使用知識。我們涵蓋了所有基本術語、鍵盤快捷鍵、最佳實踐、省時技巧、基本動畫、分配 uv、應用材質、紋理等。",
       "topics": "遊戲開發",
-      "categories": [
-        "Unity",
-        "Blender"
-      ],
+      "categories": ["Unity", "Blender"],
       "mainPoints": [
         "使用 Blender 3D 自信地創建您自己的 Unity 道具",
         "Unity 和 Blender 的基本動畫技術",
@@ -5374,38 +5048,6 @@
       "canUse": true,
       "timestamp": "",
       "dueDate": "2024-12-30T16:00:00.000Z"
-    },
-    {
-      "userId": 1,
-      "couponId": 3,
-      "canUse": true,
-      "timestamp": 1699465626288,
-      "dueDate": "2023-11-16T15:59:59.999Z",
-      "id": 6
-    },
-    {
-      "userId": 1,
-      "couponId": 36,
-      "canUse": true,
-      "timestamp": 1699465626327,
-      "dueDate": "2023-11-30T15:59:59.999Z",
-      "id": 7
-    },
-    {
-      "userId": 1,
-      "couponId": 69,
-      "canUse": true,
-      "timestamp": 1699465626362,
-      "dueDate": "2024-01-18T15:59:59.999Z",
-      "id": 8
-    },
-    {
-      "userId": 1,
-      "couponId": 102,
-      "canUse": true,
-      "timestamp": 1699465626391,
-      "dueDate": "2024-03-28T15:59:59.999Z",
-      "id": 9
     }
   ]
 }
