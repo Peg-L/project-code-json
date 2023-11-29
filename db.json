@@ -1,5 +1,76 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "email": "howhow@example.com",
+      "password": "SecurePass1",
+      "phone": "0987654321",
+      "name": "阿豪",
+      "role": "學生",
+      "title": "學生",
+      "avatar": "../assets/images/student/olivia.png",
+      "birthdate": "1990-05-14T16:00:00.000Z",
+      "gender": "男",
+      "address": "台北市大安區忠孝東路123號",
+      "followList": [1, 2, 3, 5, 20]
+    },
+    {
+      "id": 2,
+      "email": "snowwhite@example.com",
+      "password": "Secure123",
+      "phone": "0932111222",
+      "name": "小雪",
+      "role": "學生",
+      "title": "後端工程師",
+      "avatar": "../assets/images/student/olivia.png",
+      "birthdate": "1988-11-29T16:00:00.000Z",
+      "gender": "女",
+      "address": "新北市三峡區中山路45號",
+      "followList": [1, 10]
+    },
+    {
+      "id": 3,
+      "email": "andrew.chen@example.com",
+      "password": "A1b2C3d4",
+      "phone": "0955123456",
+      "name": "陳辰",
+      "role": "學生",
+      "title": "前端工程師",
+      "avatar": "../assets/images/student/olivia.png",
+      "birthdate": "1995-07-21T16:00:00.000Z",
+      "gender": "男",
+      "address": "台中市西屯區文心路78號",
+      "followList": [2, 5]
+    },
+    {
+      "id": 4,
+      "email": "lisa@example.com",
+      "password": "Lin45678",
+      "phone": "0929333111",
+      "name": "許佳慧",
+      "role": "學生",
+      "title": "前端工程師",
+      "avatar": "../assets/images/student/olivia.png",
+      "birthdate": "1980-03-09T16:00:00.000Z",
+      "gender": "女",
+      "address": "高雄市苓雅區林森一路56號",
+      "followList": [3, 7]
+    },
+    {
+      "id": 5,
+      "email": "david.wu@example.com",
+      "password": "Wu789012",
+      "phone": "0912444333",
+      "name": "David",
+      "role": "學生",
+      "title": "軟體工程師",
+      "avatar": "../assets/images/student/olivia.png",
+      "birthdate": "1985-09-04T16:00:00.000Z",
+      "gender": "男",
+      "address": "台南市東區東門路99號",
+      "followList": [12, 11]
+    }
+  ],
   "comments": [
     {
       "id": 1,
