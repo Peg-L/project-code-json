@@ -3,12 +3,12 @@
     {
       "id": 1,
       "email": "howhow@example.com",
-      "password": "SecurePass1",
+      "password": "$2a$10$IxxGUQCLKtPzbz5iqYC6CuGcyvyGmSaufxqZptRcwVZf3w8z5uOBy",
       "phone": "0987654321",
       "name": "阿豪",
       "role": "學生",
       "title": "學生",
-      "avatar": "../assets/images/student/monkey.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/monkey.png",
       "birthdate": "1990-05-14T16:00:00.000Z",
       "gender": "男",
       "address": "台北市大安區忠孝東路123號",
@@ -17,12 +17,12 @@
     {
       "id": 2,
       "email": "snowwhite@example.com",
-      "password": "Secure123",
+      "password": "$2a$10$ioL5H8c10InhbvTc.CTqbuMetOoAJs4DbSGROcWwHbniJ8frh2wi6",
       "phone": "0932111222",
       "name": "小雪",
       "role": "學生",
       "title": "後端工程師",
-      "avatar": "../assets/images/student/mi.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/mi.png",
       "birthdate": "1988-11-29T16:00:00.000Z",
       "gender": "女",
       "address": "新北市三峡區中山路45號",
@@ -31,12 +31,12 @@
     {
       "id": 3,
       "email": "andrew.chen@example.com",
-      "password": "A1b2C3d4",
+      "password": "$2a$10$54mqOsTxLrh5atmS5t5XWer42E7gV6jfhqVdHWo/r5TjQtyZdFdT6",
       "phone": "0955123456",
       "name": "陳辰",
       "role": "學生",
       "title": "前端工程師",
-      "avatar": "../assets/images/student/chenchen.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/chenchen.png",
       "birthdate": "1995-07-21T16:00:00.000Z",
       "gender": "男",
       "address": "台中市西屯區文心路78號",
@@ -45,12 +45,12 @@
     {
       "id": 4,
       "email": "lisa@example.com",
-      "password": "Lin45678",
+      "password": "$2a$10$MzyKt0blMTw1OEw03eDv6uvdyMF90T54fKsDM0JOi3butlI1ZT1wy",
       "phone": "0929333111",
       "name": "許佳慧",
       "role": "學生",
       "title": "前端工程師",
-      "avatar": "../assets/images/student/olivia.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/olivia.png",
       "birthdate": "1980-03-09T16:00:00.000Z",
       "gender": "女",
       "address": "高雄市苓雅區林森一路56號",
@@ -59,29 +59,16 @@
     {
       "id": 5,
       "email": "david.wu@example.com",
-      "password": "Wu789012",
+      "password": "$2a$10$tI0Z5QNjdH3COlG4p9cFce/5cl9GAIJ0U2KNLucFgsw/U1rseu//e",
       "phone": "0912444333",
       "name": "David",
       "role": "學生",
       "title": "軟體工程師",
-      "avatar": "../assets/images/student/chen.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/chen.png",
       "birthdate": "1985-09-04T16:00:00.000Z",
       "gender": "男",
       "address": "台南市東區東門路99號",
       "followList": [12, 11]
-    },
-    {
-      "email": "stu90233@gmail.com",
-      "password": "$2a$10$lqWwOR5zteH/3j5JTtAIE.o/SlETHTRpX.WsuNgRPr1sGIAYx3XLO",
-      "user_phone": "0967353311",
-      "user_name": "Peggy",
-      "user_role": "學生",
-      "user_title": "",
-      "user_avatar": "",
-      "user_birthdate": "",
-      "user_gender": "",
-      "user_address": "",
-      "id": 6
     },
     {
       "email": "aronglin0425@gmail.com",
@@ -94,7 +81,35 @@
       "user_birthdate": "",
       "user_gender": "",
       "user_address": "",
-      "id": 7
+      "id": 7,
+      "followList": []
+    },
+    {
+      "email": "piggylin2017@gmail.com",
+      "password": "$2a$10$VyuYvUP6DCAb9i.zgXs7jOJIhrsdP2Y9pkD58pLytYY/gqduC6/Qe",
+      "user_phone": null,
+      "user_name": "piggylin2017@gmail.com",
+      "user_role": "學生",
+      "user_title": "",
+      "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ7E-RtVXKbgbQ8-IVkISnEznq0QXxTZ84_10A8dj-v=s96-c",
+      "user_birthdate": "",
+      "user_gender": "",
+      "user_address": "",
+      "followList": [1],
+      "id": 8
+    },
+    {
+      "email": "stu90233@gmail.com",
+      "password": "$2a$10$N03cZ7zKpCHffeMwHQQcuuKDAfRx0t2y4TpnNImoH.wyjuAEU6R7m",
+      "user_phone": null,
+      "user_name": "stu90233@gmail.com",
+      "user_role": "學生",
+      "user_title": "",
+      "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIeQDB_Oc9ALIZF6YAUWuAN4Bb1sVy3W2cr2PhK4CW7A1LB=s96-c",
+      "user_birthdate": "",
+      "user_gender": "",
+      "user_address": "",
+      "id": 9
     }
   ],
   "comments": [
@@ -2742,7 +2757,7 @@
   "teachers": [
     {
       "id": 1,
-      "avatar": "../assets/images/teacher/mike.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/mike.png",
       "name": "麥克先生",
       "title": "上市企業 前端工程師",
       "rate": 4.8,
@@ -2860,7 +2875,7 @@
     },
     {
       "id": 2,
-      "avatar": "../assets/images/teacher/arong.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/arong.png",
       "name": "榮哥",
       "title": "上市企業 全端工程師",
       "rate": 4.8,
@@ -2953,7 +2968,7 @@
     },
     {
       "id": 3,
-      "avatar": "../assets/images/teacher/alice.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/alice.png",
       "name": "艾莉絲",
       "title": "外商 Python工程師",
       "rate": 5,
@@ -3071,7 +3086,7 @@
     },
     {
       "id": 4,
-      "avatar": "../assets/images/teacher/ken.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/ken.png",
       "name": "Ken",
       "title": "台積電 資料庫工程師",
       "rate": 5,
@@ -3189,7 +3204,7 @@
     },
     {
       "id": 5,
-      "avatar": "../assets/images/teacher/simon.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/simon.png",
       "name": "賽門",
       "title": "資深 Java 工程師",
       "rate": 5,
@@ -3240,7 +3255,7 @@
     },
     {
       "id": 6,
-      "avatar": "../assets/images/teacher/sasa.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/sasa.png",
       "name": "莎莎",
       "title": "新加玻 軟體測試工程師",
       "rate": 4.9,
@@ -3358,7 +3373,7 @@
     },
     {
       "id": 7,
-      "avatar": "../assets/images/teacher/Brian.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/Brian.png",
       "name": "布萊恩",
       "title": "荷蘭 DevOps工程師",
       "rate": 4.3,
@@ -3476,7 +3491,7 @@
     },
     {
       "id": 8,
-      "avatar": "../assets/images/teacher/Ray.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/Ray.png",
       "name": "Ray",
       "title": "資深 軟體工程師",
       "rate": 4.7,
@@ -3594,7 +3609,7 @@
     },
     {
       "id": 9,
-      "avatar": "../assets/images/teacher/張予.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/張予.png",
       "name": "張予",
       "title": "上市企業 全端工程師",
       "rate": 4.6,
@@ -3712,7 +3727,7 @@
     },
     {
       "id": 10,
-      "avatar": "../assets/images/teacher/Tina.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/Tina.png",
       "name": "Tina",
       "title": "外商 後端工程師",
       "rate": 4.9,
@@ -3830,7 +3845,7 @@
     },
     {
       "id": 11,
-      "avatar": "../assets/images/teacher/郭耀壬.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/郭耀壬.png",
       "name": "郭耀壬",
       "title": " Unity 工程師",
       "rate": 4.5,
@@ -3948,7 +3963,7 @@
     },
     {
       "id": 12,
-      "avatar": "../assets/images/teacher/許哲亭.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/許哲亭.png",
       "name": "許哲亭",
       "title": " App 研發工程師",
       "rate": 5,
@@ -4066,7 +4081,7 @@
     },
     {
       "id": 13,
-      "avatar": "../assets/images/teacher/Peggy.png",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/teacher/Peggy.png",
       "name": "Peggy",
       "title": " UI/UX 設計師",
       "rate": 4.9,
@@ -6651,7 +6666,7 @@
     {
       "userId": 1,
       "couponId": 5,
-      "canUse": true,
+      "canUse": false,
       "timestamp": 1701829593784,
       "dueDate": "2023-12-13T15:59:59.999Z",
       "id": 29
@@ -6683,7 +6698,7 @@
     {
       "userId": 1,
       "couponId": 7,
-      "canUse": true,
+      "canUse": false,
       "timestamp": 1701829594909,
       "dueDate": "2023-12-13T15:59:59.999Z",
       "id": 33
@@ -7063,6 +7078,198 @@
       "timestamp": 1701831511724,
       "dueDate": "2024-04-24T15:59:59.999Z",
       "id": 80
+    },
+    {
+      "userId": "1",
+      "couponId": 11,
+      "canUse": true,
+      "timestamp": 1702281474343,
+      "dueDate": "2023-12-18T15:59:59.999Z",
+      "id": 81
+    },
+    {
+      "userId": "1",
+      "couponId": 44,
+      "canUse": true,
+      "timestamp": 1702281474344,
+      "dueDate": "2024-01-01T15:59:59.999Z",
+      "id": 82
+    },
+    {
+      "userId": "1",
+      "couponId": 77,
+      "canUse": true,
+      "timestamp": 1702281474344,
+      "dueDate": "2024-02-19T15:59:59.999Z",
+      "id": 83
+    },
+    {
+      "userId": "1",
+      "couponId": 110,
+      "canUse": true,
+      "timestamp": 1702281474345,
+      "dueDate": "2024-04-29T15:59:59.999Z",
+      "id": 84
+    },
+    {
+      "userId": "1",
+      "couponId": 13,
+      "canUse": true,
+      "timestamp": 1702281477742,
+      "dueDate": "2023-12-18T15:59:59.999Z",
+      "id": 85
+    },
+    {
+      "userId": "1",
+      "couponId": 46,
+      "canUse": true,
+      "timestamp": 1702281477743,
+      "dueDate": "2024-01-01T15:59:59.999Z",
+      "id": 86
+    },
+    {
+      "userId": "1",
+      "couponId": 79,
+      "canUse": true,
+      "timestamp": 1702281477743,
+      "dueDate": "2024-02-19T15:59:59.999Z",
+      "id": 87
+    },
+    {
+      "userId": "1",
+      "couponId": 112,
+      "canUse": true,
+      "timestamp": 1702281477743,
+      "dueDate": "2024-04-29T15:59:59.999Z",
+      "id": 88
+    },
+    {
+      "userId": "1",
+      "couponId": 29,
+      "canUse": true,
+      "timestamp": 1702281577989,
+      "dueDate": "2023-12-18T15:59:59.999Z",
+      "id": 89
+    },
+    {
+      "userId": "1",
+      "couponId": 62,
+      "canUse": true,
+      "timestamp": 1702281577989,
+      "dueDate": "2024-01-01T15:59:59.999Z",
+      "id": 90
+    },
+    {
+      "userId": "1",
+      "couponId": 95,
+      "canUse": true,
+      "timestamp": 1702281577990,
+      "dueDate": "2024-02-19T15:59:59.999Z",
+      "id": 91
+    },
+    {
+      "userId": "1",
+      "couponId": 128,
+      "canUse": true,
+      "timestamp": 1702281577990,
+      "dueDate": "2024-04-29T15:59:59.999Z",
+      "id": 92
+    },
+    {
+      "userId": "1",
+      "couponId": 30,
+      "canUse": true,
+      "timestamp": 1702281578582,
+      "dueDate": "2023-12-18T15:59:59.999Z",
+      "id": 93
+    },
+    {
+      "userId": "1",
+      "couponId": 63,
+      "canUse": true,
+      "timestamp": 1702281578582,
+      "dueDate": "2024-01-01T15:59:59.999Z",
+      "id": 94
+    },
+    {
+      "userId": "1",
+      "couponId": 96,
+      "canUse": true,
+      "timestamp": 1702281578582,
+      "dueDate": "2024-02-19T15:59:59.999Z",
+      "id": 95
+    },
+    {
+      "userId": "1",
+      "couponId": 129,
+      "canUse": true,
+      "timestamp": 1702281578582,
+      "dueDate": "2024-04-29T15:59:59.999Z",
+      "id": 96
+    },
+    {
+      "userId": "1",
+      "couponId": 32,
+      "canUse": false,
+      "timestamp": 1702281579806,
+      "dueDate": "2023-12-18T15:59:59.999Z",
+      "id": 97
+    },
+    {
+      "userId": "1",
+      "couponId": 65,
+      "canUse": true,
+      "timestamp": 1702281579806,
+      "dueDate": "2024-01-01T15:59:59.999Z",
+      "id": 98
+    },
+    {
+      "userId": "1",
+      "couponId": 98,
+      "canUse": true,
+      "timestamp": 1702281579807,
+      "dueDate": "2024-02-19T15:59:59.999Z",
+      "id": 99
+    },
+    {
+      "userId": "1",
+      "couponId": 131,
+      "canUse": true,
+      "timestamp": 1702281579807,
+      "dueDate": "2024-04-29T15:59:59.999Z",
+      "id": 100
+    },
+    {
+      "userId": "1",
+      "couponId": 10,
+      "canUse": true,
+      "timestamp": 1702345806823,
+      "dueDate": "2023-12-19T15:59:59.999Z",
+      "id": 101
+    },
+    {
+      "userId": "1",
+      "couponId": 43,
+      "canUse": true,
+      "timestamp": 1702345806824,
+      "dueDate": "2024-01-02T15:59:59.999Z",
+      "id": 102
+    },
+    {
+      "userId": "1",
+      "couponId": 76,
+      "canUse": true,
+      "timestamp": 1702345806826,
+      "dueDate": "2024-02-20T15:59:59.999Z",
+      "id": 103
+    },
+    {
+      "userId": "1",
+      "couponId": 109,
+      "canUse": true,
+      "timestamp": 1702345806827,
+      "dueDate": "2024-04-30T15:59:59.999Z",
+      "id": 104
     }
   ],
   "user_courses": [
@@ -7072,8 +7279,8 @@
       "purchased": [
         {
           "courseId": 1,
-          "total": 4,
-          "used": 4
+          "total": 5,
+          "used": 5
         },
         {
           "courseId": 2,
@@ -7082,8 +7289,33 @@
         },
         {
           "courseId": 3,
+          "total": 4,
+          "used": 4
+        },
+        {
+          "courseId": 5,
+          "total": 1,
+          "used": 1
+        },
+        {
+          "courseId": 9,
+          "total": 1,
+          "used": 1
+        },
+        {
+          "courseId": 11,
+          "total": 1,
+          "used": 1
+        },
+        {
+          "courseId": 27,
           "total": 3,
-          "used": 3
+          "used": 2
+        },
+        {
+          "courseId": 30,
+          "total": 1,
+          "used": 1
         }
       ],
       "attendTime": [
@@ -7205,6 +7437,62 @@
           "date": "12/27",
           "time": "11:00",
           "isCheck": false
+        },
+        {
+          "uid": "XNoB",
+          "courseId": 1,
+          "date": "2023/12/17",
+          "time": "12:00",
+          "isCheck": false
+        },
+        {
+          "uid": "J2Gy",
+          "courseId": 3,
+          "date": "2023/12/17",
+          "time": "10:00",
+          "isCheck": false
+        },
+        {
+          "uid": "HuRu",
+          "courseId": 5,
+          "date": "2023/12/18",
+          "time": "22:30",
+          "isCheck": false
+        },
+        {
+          "uid": "qiVw",
+          "courseId": 9,
+          "date": "2023/12/19",
+          "time": "18:00",
+          "isCheck": false
+        },
+        {
+          "uid": "wT4C",
+          "courseId": 11,
+          "date": "2023/12/20",
+          "time": "19:30",
+          "isCheck": false
+        },
+        {
+          "uid": "G5RS",
+          "courseId": 27,
+          "date": "2023/12/17",
+          "time": "10:00",
+          "isCheck": false
+        },
+        {
+          "uid": "iQBD",
+          "courseId": 27,
+          "date": "2023/12/19",
+          "time": "20:00",
+          "isCheck": false
+        },
+        {
+          "uid": "XOfs",
+          "courseId": 30,
+          "date": "2023/12/19",
+          "time": "20:00",
+          "isCheck": false
         }
       ]
     }
@@ -7241,6 +7529,105 @@
       "isPurchased": true,
       "isNextPurchase": false,
       "id": 18
+    },
+    {
+      "userId": "1",
+      "courseId": "1",
+      "quantity": 1,
+      "status": "finish",
+      "isNextPurchase": false,
+      "dueDate": "2024-12-10",
+      "id": 19
+    },
+    {
+      "userId": "1",
+      "courseId": "3",
+      "quantity": 1,
+      "status": "finish",
+      "isNextPurchase": false,
+      "dueDate": "2024-12-10",
+      "id": 20
+    },
+    {
+      "userId": "1",
+      "courseId": "5",
+      "quantity": 1,
+      "status": "finish",
+      "isNextPurchase": false,
+      "dueDate": "2024-12-10",
+      "id": 21
+    },
+    {
+      "userId": "1",
+      "courseId": "9",
+      "quantity": 1,
+      "status": "finish",
+      "isNextPurchase": false,
+      "dueDate": "2024-12-10",
+      "id": 22
+    },
+    {
+      "userId": "1",
+      "courseId": "11",
+      "quantity": 1,
+      "status": "finish",
+      "isNextPurchase": false,
+      "dueDate": "2024-12-10",
+      "id": 23
+    },
+    {
+      "userId": "1",
+      "courseId": "27",
+      "quantity": "3",
+      "status": "finish",
+      "isNextPurchase": false,
+      "dueDate": "2024-12-10",
+      "id": 24
+    },
+    {
+      "userId": "",
+      "courseId": "",
+      "quantity": "",
+      "status": "purchase",
+      "isNextPurchase": false,
+      "dueDate": "",
+      "id": 25
+    },
+    {
+      "userId": "1",
+      "courseId": "30",
+      "quantity": 1,
+      "status": "finish",
+      "isNextPurchase": false,
+      "dueDate": "2024-12-10",
+      "id": 26
+    },
+    {
+      "userId": "",
+      "courseId": "",
+      "quantity": "3",
+      "status": "purchase",
+      "isNextPurchase": false,
+      "dueDate": "",
+      "id": 27
+    },
+    {
+      "userId": "",
+      "courseId": "",
+      "quantity": "1",
+      "status": "purchase",
+      "isNextPurchase": false,
+      "dueDate": "",
+      "id": 28
+    },
+    {
+      "userId": "",
+      "courseId": "",
+      "quantity": "-3",
+      "status": "purchase",
+      "isNextPurchase": false,
+      "dueDate": "",
+      "id": 29
     }
   ]
 }
