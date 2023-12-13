@@ -18,7 +18,7 @@
       "id": 2,
       "email": "snowwhite@example.com",
       "password": "$2a$10$ioL5H8c10InhbvTc.CTqbuMetOoAJs4DbSGROcWwHbniJ8frh2wi6",
-      "phone": "0932111222",
+      "phone": "0987654321",
       "name": "小雪",
       "role": "學生",
       "title": "後端工程師",
@@ -35,7 +35,7 @@
       "phone": "0955123456",
       "name": "陳辰",
       "role": "學生",
-      "title": "前端工程師",
+      "title": "設計師/前端工程師",
       "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/chenchen.png",
       "birthdate": "1995-07-21T16:00:00.000Z",
       "gender": "男",
@@ -71,45 +71,101 @@
       "followList": [12, 11]
     },
     {
+      "email": "mei@gmail.com",
+      "password": "$2a$10$QAVGExWmsdIM1ElsfCDCfOVcree8FB0h4cshRHq5zgnp0dOe4WQCG",
+      "phone": "0967353311",
+      "name": "Mei",
+      "role": "學生",
+      "title": "美術老師",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/0a1e1a3dcd659bc9a4c72332f12ef660630a103e/assets/images/logo-img.svg",
+      "birthdate": "",
+      "gender": "",
+      "address": "",
+      "followList": [],
+      "id": 6
+    },
+    {
+      "id": 7,
       "email": "aronglin0425@gmail.com",
       "password": "$2a$10$SrfmtsYIWlqcx0wyH58sb.BYBcqr8hCCziw9YEX/1.lvC3pseMJqi",
-      "user_phone": null,
-      "user_name": "aronglin0425@gmail.com",
-      "user_role": "學生",
-      "user_title": "",
-      "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocKvGlAlCgifFd4vHeYM7NQd4p5d6_wfo-SnRR1oKv1m=s96-c",
-      "user_birthdate": "",
-      "user_gender": "",
-      "user_address": "",
-      "id": 7,
+      "phone": "0912355555",
+      "name": "阿榮",
+      "role": "學生",
+      "title": "學生",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKvGlAlCgifFd4vHeYM7NQd4p5d6_wfo-SnRR1oKv1m=s96-c",
+      "birthdate": "",
+      "gender": "",
+      "address": "",
       "followList": []
     },
     {
+      "id": 8,
       "email": "piggylin2017@gmail.com",
       "password": "$2a$10$VyuYvUP6DCAb9i.zgXs7jOJIhrsdP2Y9pkD58pLytYY/gqduC6/Qe",
-      "user_phone": null,
-      "user_name": "piggylin2017@gmail.com",
-      "user_role": "學生",
-      "user_title": "",
-      "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ7E-RtVXKbgbQ8-IVkISnEznq0QXxTZ84_10A8dj-v=s96-c",
-      "user_birthdate": "",
-      "user_gender": "",
-      "user_address": "",
-      "followList": [1],
-      "id": 8
+      "phone": "0966666666",
+      "name": "佩佩豬",
+      "role": "學生",
+      "title": "學生",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ7E-RtVXKbgbQ8-IVkISnEznq0QXxTZ84_10A8dj-v=s96-c",
+      "birthdate": "",
+      "gender": "",
+      "address": "",
+      "followList": [1]
     },
     {
+      "id": 9,
       "email": "stu90233@gmail.com",
       "password": "$2a$10$N03cZ7zKpCHffeMwHQQcuuKDAfRx0t2y4TpnNImoH.wyjuAEU6R7m",
-      "user_phone": null,
-      "user_name": "stu90233@gmail.com",
-      "user_role": "學生",
-      "user_title": "",
-      "user_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIeQDB_Oc9ALIZF6YAUWuAN4Bb1sVy3W2cr2PhK4CW7A1LB=s96-c",
-      "user_birthdate": "",
-      "user_gender": "",
-      "user_address": "",
-      "id": 9
+      "phone": "0977777777",
+      "name": "jia yu",
+      "role": "學生",
+      "title": "學生",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIeQDB_Oc9ALIZF6YAUWuAN4Bb1sVy3W2cr2PhK4CW7A1LB=s96-c",
+      "birthdate": "",
+      "gender": "",
+      "address": ""
+    },
+    {
+      "id": 10,
+      "email": "andrew@gmail.com",
+      "password": "$2a$10$gUbEEnanZ0l.eCy4T4MH4eJPPwAuox1nbrifYSihGMgmrtIFdFuZq",
+      "phone": "0911111111",
+      "name": "安德魯",
+      "role": "學生",
+      "title": "學生",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/andrew.png",
+      "birthdate": "",
+      "gender": "",
+      "address": "",
+      "followList": []
+    },
+    {
+      "id": 11,
+      "email": "bear@gmail.com",
+      "password": "$2a$10$tzou5D3Htmr7G.7oZ.sZ3u8/xfTAe9lnx36E9ZgwcrGcrLiahqJ4q",
+      "phone": "0922222222",
+      "name": "懶懶熊",
+      "role": "學生",
+      "title": "前端工程師",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/bear.png",
+      "birthdate": "",
+      "gender": "",
+      "address": "",
+      "followList": []
+    },
+    {
+      "email": "lili@gmail.com",
+      "password": "$2a$10$7kpHvRee8ZrGHgyZLaHk9Os9JGRurgwQx9zQFMkQQPO.lbR2QIFIK",
+      "phone": "0933333333",
+      "name": "莉莉安",
+      "role": "學生",
+      "title": "全端工程師",
+      "avatar": "https://raw.githubusercontent.com/Peg-L/project-code/main/assets/images/student/lily.png",
+      "birthdate": "",
+      "gender": "",
+      "address": "",
+      "followList": [],
+      "id": 12
     }
   ],
   "comments": [
@@ -133,7 +189,7 @@
       "id": 3,
       "userId": 3,
       "courseId": 1,
-      "content": "我是艾莉絲，一名設計師。麥克老師的課程對我來說是一個轉捩點。他針對我的背景，將設計與網頁開發相結合，使我能夠將我的創意轉化為實際的網頁作品。我感激他的專業指導和耐心解答我的問題。",
+      "content": "我是一名設計師。麥克老師的課程對我來說是一個轉捩點。他針對我的背景，將設計與網頁開發相結合，使我能夠將我的創意轉化為實際的網頁作品。我感激他的專業指導和耐心解答我的問題。",
       "date": "2023-06-30T16:00:00.000Z",
       "rate": 5
     },
@@ -195,7 +251,7 @@
     },
     {
       "id": 11,
-      "userId": 1,
+      "userId": 4,
       "courseId": 2,
       "content": "老師非常專業，在課程中教了很多技巧，也陪我演練非常多次。讓我在技術面試中表現出色，拿到超乎我預期的 offer。這個課程為我的前端職業生涯奠定了堅實的基礎，我強烈推薦給所有想要在前端領域取得成功的人。",
       "date": "2023-07-08T16:00:00.000Z",
@@ -355,7 +411,7 @@
     },
     {
       "id": 31,
-      "userId": 1,
+      "userId": 4,
       "courseId": 4,
       "content": "嗨，麥克老師！您的課程對我來說非常有啟發性。作為一名初學者，我現在對 JavaScript 有更多信心，謝謝您的耐心指導！",
       "date": "2023-05-06T16:00:00.000Z",
@@ -435,7 +491,7 @@
     },
     {
       "id": 41,
-      "userId": 1,
+      "userId": 5,
       "courseId": 5,
       "content": "張老師的前端性能優化課程非常精彩！他不僅教導了最新的優化技巧，還分享了實用的工具。我學到了如何減少網頁載入時間，提供更好的用戶體驗。謝謝您，張老師！",
       "date": "2023-05-06T16:00:00.000Z",
@@ -515,7 +571,7 @@
     },
     {
       "id": 51,
-      "userId": 1,
+      "userId": 7,
       "courseId": 6,
       "content": "嗨，Peggy老师！您的課程真是讓我受益匪淺。我學會了如何設計一個用戶友好的登錄界面，而這在我的學校專案中非常有用。謝謝您的耐心教導！",
       "date": "2023-05-06T16:00:00.000Z",
@@ -595,7 +651,7 @@
     },
     {
       "id": 61,
-      "userId": 1,
+      "userId": 8,
       "courseId": 7,
       "content": "榮哥老師的前端入門課程簡直是我找尋已久的寶藏！他用生活中的例子解釋複雜的概念，讓我在HTML、CSS和JavaScript方面有了紮實基礎。謝謝您，榮哥！",
       "date": "2023-05-06T16:00:00.000Z",
@@ -675,7 +731,7 @@
     },
     {
       "id": 71,
-      "userId": 1,
+      "userId": 2,
       "courseId": 8,
       "content": "在學習Java之前，我曾對程式語言一無所知。這個課程從基本的資料型態到物件導向程式設計，無壓力地引導我進入Java的世界。現在，我能夠輕鬆設計簡單的應用程式，就像玩遊戲一樣。",
       "date": "2023-05-14T16:00:00.000Z",
@@ -755,7 +811,7 @@
     },
     {
       "id": 81,
-      "userId": 1,
+      "userId": 5,
       "courseId": 9,
       "content": "Tina老師的C語言課程非常詳細，她對課程內容的解釋非常清晰，讓我能夠理解並運用各種語法。她的實際工作經驗也讓我更了解如何應用C語言在軟體工程領域。謝謝你，Tina老師！",
       "date": "2023-05-24T16:00:00.000Z",
@@ -835,7 +891,7 @@
     },
     {
       "id": 91,
-      "userId": 1,
+      "userId": 9,
       "courseId": 10,
       "content": "郭耀壬老師的Unity課程簡直是夢想成真！我之前對遊戲開發一無所知，但現在我能夠自己做出2D手機遊戲了。他的教學方法讓學習變得輕鬆有趣。",
       "date": "2023-06-03T16:00:00.000Z",
@@ -915,7 +971,7 @@
     },
     {
       "id": 101,
-      "userId": 1,
+      "userId": 10,
       "courseId": 11,
       "content": "哇，Tina老師的課真的太精彩了！她以淺顯易懂的方式解釋了複雜的惡意程式和軟體逆向技巧。我現在可以更好地了解網站安全問題，謝謝Tina老師！",
       "date": "2023-06-13T16:00:00.000Z",
@@ -995,7 +1051,7 @@
     },
     {
       "id": 111,
-      "userId": 1,
+      "userId": 2,
       "courseId": 12,
       "content": "艾莉絲老師的課程真是太棒了！我完全不懂程式，但她從頭開始仔細教我 Python 基礎，現在我能夠寫簡單的程式了。而且，她的爬蟲教學實戰課程讓我能夠抓取網頁資料，這非常有用。謝謝艾莉絲老師！",
       "date": "2023-06-23T16:00:00.000Z",
@@ -1075,7 +1131,7 @@
     },
     {
       "id": 121,
-      "userId": 1,
+      "userId": 2,
       "courseId": 13,
       "content": "賽門老師的Java課程真的是一場專業的 Java 大冒險！他深入解釋了Java 8的新特性，包括Lambda表達式和Stream API。現在，我能夠更有效地處理集合和數據操作了。",
       "date": "2023-07-03T16:00:00.000Z",
@@ -1155,7 +1211,7 @@
     },
     {
       "id": 131,
-      "userId": 1,
+      "userId": 11,
       "courseId": 14,
       "content": "Unity3D課程真的是太棒了！老師用清晰的方式教授了遊戲製作的細節，我從來沒想過我可以從零開始製作自己的射擊遊戲。現在我已經建立了一個有趣的射擊遊戲場景！",
       "date": "2023-07-13T16:00:00.000Z",
@@ -1235,7 +1291,7 @@
     },
     {
       "id": 141,
-      "userId": 1,
+      "userId": 12,
       "courseId": 15,
       "content": "我以前研究過不少Android書籍，這位老師給了我前所未有的感受。老師的教學方式非常有效，讓我能夠真正理解Android開發。不再只是純粹照著書本或影片走，現在我能夠自己實際設計功能。找他上課真的物超所值，但一旦入坑，你可能會想加購更多堂家教課，所以三思而後行。",
       "date": "2023-07-23T16:00:00.000Z",
@@ -1315,7 +1371,7 @@
     },
     {
       "id": 151,
-      "userId": 1,
+      "userId": 12,
       "courseId": 16,
       "content": "這堂課真的太棒了！教學節奏掌握得非常好。表達也非常清晰，絲毫不浪費時間，而且重要的部分都強調得恰到好處，期待學到更多",
       "date": "2023-08-02T16:00:00.000Z",
@@ -1395,7 +1451,7 @@
     },
     {
       "id": 161,
-      "userId": 1,
+      "userId": 9,
       "courseId": 17,
       "content": "上課時，張予老師分享了一個有趣的故事。他曾經在一次道德駭客比賽中，成功幫助一家小企業發現了他們網站的漏洞，這讓他們能夠及時修復問題，避免了潛在的風險。這個故事真的讓我明白了道德駭客的重要性。",
       "date": "2023-08-12T16:00:00.000Z",
@@ -1475,7 +1531,7 @@
     },
     {
       "id": 171,
-      "userId": 1,
+      "userId": 7,
       "courseId": 18,
       "content": "哇，布萊恩老師真的很厲害！他的教學方式讓我從雲端零基礎到現在已經可以在AWS上架設我的個人網站了。他甚至教我如何使用Docker容器化應用，現在我能夠快速部署我的應用程式。布萊恩老師真的是個雲端與Linux的大師！",
       "date": "2023-08-22T16:00:00.000Z",
@@ -1555,7 +1611,7 @@
     },
     {
       "id": 181,
-      "userId": 1,
+      "userId": 5,
       "courseId": 19,
       "content": "老師真的非常專業！上課風趣幽默，讓學習變得輕鬆有趣。學習AWS雲端的過程中，老師一直鼓勵我們提問，並以很有耐心的方式解答我們的疑問。他教了我們如何建置AWS服務，而且他的教學充滿實際案例，讓我們更容易理解。謝謝老師，我現在已經能夠自信地在工作中應用AWS了！",
       "date": "2023-09-01T16:00:00.000Z",
@@ -1635,7 +1691,7 @@
     },
     {
       "id": 191,
-      "userId": 1,
+      "userId": 6,
       "courseId": 20,
       "content": "嗨，我是小琳，目前是美術老師，正在準備轉職。參加了麥克老師的課程後，我對UI設計和前端開發有了更深入的了解。他非常友善，總是樂於解答我的問題，而且他的課程很實用。現在，我能夠輕鬆地將我的Figma設計轉化為HTML和CSS，真的很感謝他！",
       "date": "2023-09-11T16:00:00.000Z",
@@ -1715,7 +1771,7 @@
     },
     {
       "id": 201,
-      "userId": 1,
+      "userId": 3,
       "courseId": 21,
       "content": "Peggy的課程真的讓我大開眼界！她教導了我如何使用Figma來設計精美的線框圖，並將其轉化為真實的網頁。這讓我的設計工作變得更具實用性。如果可以的話，我期待未來的課程中更多實際案例。",
       "date": "2023-09-21T16:00:00.000Z",
@@ -1795,7 +1851,7 @@
     },
     {
       "id": 211,
-      "userId": 1,
+      "userId": 5,
       "courseId": 22,
       "content": "莎莎老師的課真是太有幫助了！我是一名軟體工程師，之前對自動化測試一無所知。透過她的教學，我現在能夠使用Selenium和Python進行測試，這對我的工作非常有幫助。期待未來的課程能更深入探討一些高級主題！",
       "date": "2023-10-01T16:00:00.000Z",
@@ -1875,7 +1931,7 @@
     },
     {
       "id": 221,
-      "userId": 1,
+      "userId": 7,
       "courseId": 23,
       "content": "哇!這門課程太屌了!我是一個想學API測試的大學生,莎莎老師用淺顯易懂的方式教我如何使用Postman進行API測試,完全零基礎也能學會!現在實習的公司有讓我做API測試,都靠這門課學到的東西!真心推薦!",
       "date": "2023-10-11T16:00:00.000Z",
@@ -1955,7 +2011,7 @@
     },
     {
       "id": 231,
-      "userId": 1,
+      "userId": 10,
       "courseId": 24,
       "content": "哇塞，這堂Selenium課程內容真的很豐富欸！我是一個剛入門想學自動化測試的學生，莎莎老師從基礎知識先講起，再慢慢進階到框架应用，现在我對Selenium操作都很熟悉了！會的東西增加超多！",
       "date": "2023-10-21T16:00:00.000Z",
@@ -2035,7 +2091,7 @@
     },
     {
       "id": 241,
-      "userId": 1,
+      "userId": 11,
       "courseId": 25,
       "content": "哇!這門Docker課程內容真的超級豐富!我是一個剛踏入工程界的菜鳥,布萊恩老師從基礎概念開始講解,再慢慢進入進階應用和操作實例,讓我對Docker的理解更加完整,現在已經可以獨立使用Docker來部署應用程式了!",
       "date": "2023-10-31T16:00:00.000Z",
@@ -2115,7 +2171,7 @@
     },
     {
       "id": 251,
-      "userId": 1,
+      "userId": 12,
       "courseId": 26,
       "content": "哇，許哲亭老師的 Kotlin 課程真的很棒！我完全沒有程式經驗，但他從零開始的教學方式讓我輕鬆學會了 Kotlin。他的教學充滿活力，讓我每堂課都充滿期待。",
       "date": "2023-11-10T16:00:00.000Z",
@@ -2275,7 +2331,7 @@
     },
     {
       "id": 271,
-      "userId": 1,
+      "userId": 2,
       "courseId": 28,
       "content": "老師的教學真是太有趣了！我之前對Docker和Kubernetes一無所知，他讓我從基礎開始學習，還教我如何製作網頁應用。謝謝您，布萊恩老師！",
       "date": "2023-11-30T16:00:00.000Z",
@@ -2355,7 +2411,7 @@
     },
     {
       "id": 281,
-      "userId": 1,
+      "userId": 3,
       "courseId": 29,
       "content": "哇，布萊恩老師的課程真的超酷！他不只教技術，還帶我們一起做ChatGPT網頁應用，實戰經驗滿滿的。謝謝老師！",
       "date": "2023-12-10T16:00:00.000Z",
@@ -2435,7 +2491,7 @@
     },
     {
       "id": 291,
-      "userId": 1,
+      "userId": 5,
       "courseId": 30,
       "content": "沒想到複雜的人工智慧概念可以這麼容易理解，老師好強!!!! 現在我不僅能夠製作遊戲，還能夠讓 NPC 在遊戲中像真實一樣行動。謝謝你，郭老師！",
       "date": "2023-12-20T16:00:00.000Z",
@@ -2515,7 +2571,7 @@
     },
     {
       "id": 301,
-      "userId": 1,
+      "userId": 4,
       "courseId": 31,
       "content": "非常好的課程，有一位稱職且有趣的老師:)另一方面，我希望獲得更多有關“橫幅”類型廣告的信息，尤其是“瀑布”廣告的實施和使用，這對我來說仍然相當模糊。也許可以在附加教程中？",
       "date": "2023-12-05T16:00:00.000Z",
@@ -2595,7 +2651,7 @@
     },
     {
       "id": 311,
-      "userId": 1,
+      "userId": 8,
       "courseId": 32,
       "content": "講師非常流利，展示瞭如何製作不同類型的 3D 遊戲的所有步驟。完成本課程後學到很多！！",
       "date": "2023-12-08T16:00:00.000Z",
@@ -2675,7 +2731,7 @@
     },
     {
       "id": 321,
-      "userId": 1,
+      "userId": 11,
       "courseId": 33,
       "content": "本課程名副其實，所有內容都解釋得非常好，以至於人們可以在沒有教程幫助的情況下完成類似的專案。",
       "date": "2023-07-08T16:00:00.000Z",
@@ -4202,7 +4258,7 @@
     {
       "id": 1,
       "teacherId": 1,
-      "commentId": 1,
+      "commentId": 3,
       "name": "從零開始成為切版大師",
       "badges": ["熱門", "優質老師"],
       "tags": ["業界技術", "實戰專案開發", "5年家教經驗", "前端"],
@@ -7270,6 +7326,38 @@
       "timestamp": 1702345806827,
       "dueDate": "2024-04-30T15:59:59.999Z",
       "id": 104
+    },
+    {
+      "userId": 10,
+      "couponId": 1,
+      "canUse": true,
+      "timestamp": 1702463384232,
+      "dueDate": "2024-01-12T15:59:59.999Z",
+      "id": 105
+    },
+    {
+      "userId": 11,
+      "couponId": 1,
+      "canUse": true,
+      "timestamp": 1702463625682,
+      "dueDate": "2024-01-12T15:59:59.999Z",
+      "id": 106
+    },
+    {
+      "userId": 12,
+      "couponId": 1,
+      "canUse": true,
+      "timestamp": 1702463744467,
+      "dueDate": "2024-01-12T15:59:59.999Z",
+      "id": 107
+    },
+    {
+      "userId": 13,
+      "couponId": 1,
+      "canUse": true,
+      "timestamp": 1702465424248,
+      "dueDate": "2024-01-12T15:59:59.999Z",
+      "id": 108
     }
   ],
   "user_courses": [
@@ -7495,6 +7583,30 @@
           "isCheck": false
         }
       ]
+    },
+    {
+      "userId": 10,
+      "purchased": [],
+      "attendTime": [],
+      "id": 2
+    },
+    {
+      "userId": 11,
+      "purchased": [],
+      "attendTime": [],
+      "id": 3
+    },
+    {
+      "userId": 12,
+      "purchased": [],
+      "attendTime": [],
+      "id": 4
+    },
+    {
+      "userId": 13,
+      "purchased": [],
+      "attendTime": [],
+      "id": 5
     }
   ],
   "myCarts": [
