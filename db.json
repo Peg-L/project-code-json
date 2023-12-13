@@ -4987,8 +4987,8 @@
   "coupons": [
     {
       "id": 1,
-      "courseId": 0,
-      "teacherId": 0,
+      "courseId": null,
+      "teacherId": null,
       "title": "全課程 9 折",
       "type": "allCourse",
       "info": "低消 $ 1,500 ，結帳再享 9 折。",
@@ -4998,8 +4998,8 @@
     },
     {
       "id": 2,
-      "courseId": 0,
-      "teacherId": 0,
+      "courseId": null,
+      "teacherId": null,
       "title": "全課程 8 折",
       "type": "allCourse",
       "info": "低消 $ 3,000 ，結帳再享 8 折。",
