@@ -6567,21 +6567,21 @@
         {
           "uid": "dpI5",
           "courseId": 3,
-          "date": "11/03",
+          "date": "2023/11/03",
           "time": "10:00",
           "isCheck": false
         },
         {
           "uid": "iUui",
           "courseId": 3,
-          "date": "11/04",
+          "date": "2023/11/04",
           "time": "10:00",
           "isCheck": true
         },
         {
           "uid": "vjbd",
           "courseId": 1,
-          "date": "11/04",
+          "date": "2023/11/04",
           "time": "12:00",
           "isCheck": false
         },
@@ -6595,91 +6595,91 @@
         {
           "uid": "xOAu",
           "courseId": 1,
-          "date": "11/23",
+          "date": "2023/11/23",
           "time": "12:00",
           "isCheck": false
         },
         {
           "uid": "mAS1",
           "courseId": 1,
-          "date": "11/22",
+          "date": "2023/11/22",
           "time": "10:00",
           "isCheck": false
         },
         {
           "uid": "czBZ",
           "courseId": 1,
-          "date": "11/30",
+          "date": "2023/11/30",
           "time": "08:30",
           "isCheck": false
         },
         {
           "uid": "mnJm",
           "courseId": 2,
-          "date": "11/30",
+          "date": "2023/11/30",
           "time": "10:00",
           "isCheck": false
         },
         {
           "uid": "D74T",
           "courseId": 2,
-          "date": "10/25",
+          "date": "2023/10/25",
           "time": "11:00",
           "isCheck": false
         },
         {
           "uid": "MXAN",
           "courseId": 1,
-          "date": "11/02",
+          "date": "2023/11/02",
           "time": "12:00",
           "isCheck": false
         },
         {
           "uid": "fho5",
           "courseId": 1,
-          "date": "11/02",
+          "date": "2023/11/02",
           "time": "12:00",
           "isCheck": false
         },
         {
           "uid": "jXOO",
           "courseId": 1,
-          "date": "11/02",
+          "date": "2023/11/02",
           "time": "11:00",
           "isCheck": false
         },
         {
           "uid": "fFPQ",
           "courseId": 1,
-          "date": "11/02",
+          "date": "2023/11/02",
           "time": "",
           "isCheck": false
         },
         {
           "uid": "mHKZ",
           "courseId": 1,
-          "date": "11/03",
+          "date": "2023/11/03",
           "time": "10:00",
           "isCheck": false
         },
         {
           "uid": "lwXH",
           "courseId": 1,
-          "date": "11/03",
+          "date": "2023/11/03",
           "time": "12:00",
           "isCheck": false
         },
         {
           "uid": "Lat7",
           "courseId": 1,
-          "date": "12/09",
+          "date": "2023/12/09",
           "time": "",
           "isCheck": false
         },
         {
           "uid": "xIBq",
           "courseId": 2,
-          "date": "12/27",
+          "date": "2023/12/27",
           "time": "11:00",
           "isCheck": false
         },
@@ -6709,34 +6709,6 @@
           "courseId": 9,
           "date": "2023/12/19",
           "time": "18:00",
-          "isCheck": false
-        },
-        {
-          "uid": "wT4C",
-          "courseId": 11,
-          "date": "2023/12/20",
-          "time": "19:30",
-          "isCheck": false
-        },
-        {
-          "uid": "G5RS",
-          "courseId": 27,
-          "date": "2023/12/17",
-          "time": "10:00",
-          "isCheck": false
-        },
-        {
-          "uid": "iQBD",
-          "courseId": 27,
-          "date": "2023/12/19",
-          "time": "20:00",
-          "isCheck": false
-        },
-        {
-          "uid": "XOfs",
-          "courseId": 30,
-          "date": "2023/12/19",
-          "time": "20:00",
           "isCheck": false
         }
       ]
