@@ -167,20 +167,6 @@
       "address": "",
       "followList": [],
       "id": 12
-    },
-    {
-      "email": "alice49885@gmail.com",
-      "password": "$2a$10$z09oh.JrGiDY.EdF/s7kmOx9Mp9vOsz7A9XCwseobu2sLhVzdGaIa",
-      "phone": null,
-      "name": "李家瑜",
-      "role": "學生",
-      "title": "",
-      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJhgMbw4qfzLU0TI0QABfok2nxjZxkwtYg05F1LdkQs=s96-c",
-      "birthdate": "",
-      "gender": "",
-      "address": "",
-      "followList": [],
-      "id": 13
     }
   ],
   "comments": [
@@ -6649,44 +6635,44 @@
   ],
   "myCoupons": [
     {
-      "userId": 13,
+      "id": 1,
+      "userId": 1,
       "couponId": 1,
       "canUse": true,
-      "timestamp": 1702718668406,
-      "dueDate": "2024-01-15T15:59:59.999Z",
-      "id": 1
+      "timestamp": "",
+      "dueDate": "2024-12-30T16:00:00.000Z"
     },
     {
-      "userId": "13",
-      "couponId": 3,
+      "id": 2,
+      "userId": 2,
+      "couponId": 1,
       "canUse": true,
-      "timestamp": 1702718675362,
-      "dueDate": "2023-12-23T15:59:59.999Z",
-      "id": 2
+      "timestamp": "",
+      "dueDate": "2024-12-30T16:00:00.000Z"
     },
     {
-      "userId": "13",
-      "couponId": 36,
+      "id": 3,
+      "userId": 3,
+      "couponId": 1,
       "canUse": true,
-      "timestamp": 1702718675363,
-      "dueDate": "2024-01-06T15:59:59.999Z",
-      "id": 3
+      "timestamp": "",
+      "dueDate": "2024-12-30T16:00:00.000Z"
     },
     {
-      "userId": "13",
-      "couponId": 69,
+      "id": 4,
+      "userId": 4,
+      "couponId": 1,
       "canUse": true,
-      "timestamp": 1702718675364,
-      "dueDate": "2024-02-24T15:59:59.999Z",
-      "id": 4
+      "timestamp": "",
+      "dueDate": "2024-12-30T16:00:00.000Z"
     },
     {
-      "userId": "13",
-      "couponId": 102,
+      "id": 5,
+      "userId": 5,
+      "couponId": 1,
       "canUse": true,
-      "timestamp": 1702718675365,
-      "dueDate": "2024-05-04T15:59:59.999Z",
-      "id": 5
+      "timestamp": "",
+      "dueDate": "2024-12-30T16:00:00.000Z"
     }
   ],
   "user_courses": [
